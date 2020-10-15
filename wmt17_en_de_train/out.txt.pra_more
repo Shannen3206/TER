@@ -1,0 +1,118 @@
+Sentence ID: 0:1
+Best Ref: außerdem geben sie an , welche art von änderungen zulässig sind , die für das dokument zertifiziert bleiben .
+Orig Hyp: sie geben außerdem an , welche art von änderungen zulässig sind , damit das dokument zertifiziert bleibt .
+
+REF:  außerdem geben sie      an , welche art von änderungen zulässig sind , die für   das dokument zertifiziert bleiben .
+HYP:  sie      geben außerdem an , welche art von änderungen zulässig sind , *** damit das dokument zertifiziert bleibt  .
+EVAL: S              S                                                       D   S                               S        
+SHFT:                                                                                                                     
+TER Score:  26.32 (  5.0/ 19.0)
+
+
+
+Sentence ID: 1:1
+Best Ref: führen sie einen der folgenden schritte in der optionsleiste fest :
+Orig Hyp: führen sie einen der folgenden schritte in der optionsleiste aus :
+
+REF:  führen sie einen der folgenden schritte in der optionsleiste fest :
+HYP:  führen sie einen der folgenden schritte in der optionsleiste aus  :
+EVAL:                                                              S     
+SHFT:                                                                    
+TER Score:   9.09 (  1.0/ 11.0)
+
+
+
+Sentence ID: 2:1
+Best Ref: die letzte variable , status , einen numerischen wert , der verwendet wird , um zu bestimmen , welche optionen von ihrem telnet-client unterstützt wird .
+Orig Hyp: die letzte variable " state " ist ein numerischer wert , der verwendet wird , um zu bestimmen , welche optionen von ihrem telnet-client unterstützt werden .
+
+REF:  die letzte variable * ,     status ,   einen numerischen wert , der verwendet wird , um zu bestimmen , welche optionen von ihrem telnet-client unterstützt wird   .
+HYP:  die letzte variable " state "      ist ein   numerischer wert , der verwendet wird , um zu bestimmen , welche optionen von ihrem telnet-client unterstützt werden .
+EVAL:                     I S     S      S   S     S                                                                                                             S       
+SHFT:                                                                                                                                                                    
+TER Score:  26.92 (  7.0/ 26.0)
+
+
+
+Sentence ID: 3:1
+Best Ref: weitere informationen zur verwendung von tag-codes , exportieren sie text mit tags aus einem dokument formatiert werden .
+Orig Hyp: um mehr über die verwendung von tag-codes zu erfahren , exportieren sie text mit tags aus einem formatierten dokument .
+
+REF:  ** weitere informationen zur verwendung von tag-codes ** ******** , exportieren sie text mit tags aus einem   dokument   formatiert werden         .
+HYP:  um mehr    über          die verwendung von tag-codes zu erfahren , exportieren sie text mit tags aus einem [ dokument ] ********** formatierten @ .
+EVAL: I  S       S             S                            I  I                                                               D          S               
+SHFT:                                                                                                             1          1                         1  
+TER Score:  50.00 (  9.0/ 18.0)
+
+Shift [dokument] 1 words left
+ REF:  ** weitere informationen zur verwendung von tag-codes ** ******** , exportieren sie text mit tags aus einem   dokument   formatiert werden         .
+ HYP:  um mehr    über          die verwendung von tag-codes zu erfahren , exportieren sie text mit tags aus einem [ dokument ] ********** formatierten @ .
+
+
+
+Sentence ID: 4:1
+Best Ref: steuert den tonwertbereich in den tiefen bzw. lichtern , die geändert werden .
+Orig Hyp: steuert den tonwertbereich in den schatten bzw. lichtern , die geändert werden .
+
+REF:  steuert den tonwertbereich in den tiefen   bzw. lichtern , die geändert werden .
+HYP:  steuert den tonwertbereich in den schatten bzw. lichtern , die geändert werden .
+EVAL:                                   S                                             
+SHFT:                                                                                 
+TER Score:   7.69 (  1.0/ 13.0)
+
+
+
+Sentence ID: 5:1
+Best Ref: wenn sie einen ordner auswählen , wird der befehl , wo möglich , um alle dateien in dem ordner angewendet .
+Orig Hyp: wenn sie einen ordner auswählen , wird der befehl nach möglichkeit auf alle dateien in dem ordner angewendet .
+
+REF:  wenn sie einen ordner auswählen , wird der befehl , wo möglich ,           um  alle dateien in dem ordner angewendet .
+HYP:  wenn sie einen ordner auswählen , wird der befehl * ** nach    möglichkeit auf alle dateien in dem ordner angewendet .
+EVAL:                                                   D D  S       S           S                                          
+SHFT:                                                                                                                       
+TER Score:  23.81 (  5.0/ 21.0)
+
+
+
+Sentence ID: 6:1
+Best Ref: wählen sie " modifizieren " > " ebenenmaske " > " einfügen als " maske . "
+Orig Hyp: wählen sie " modifizieren " > " maske " > " einfügen als maske . "
+
+REF:  wählen sie " modifizieren " > " ebenenmaske " > " einfügen als " maske . "
+HYP:  wählen sie " modifizieren " > " maske       " > " einfügen als * maske . "
+EVAL:                                 S                              D          
+SHFT:                                                                           
+TER Score:  11.76 (  2.0/ 17.0)
+
+
+
+Sentence ID: 7:1
+Best Ref: beachten sie , dass dies von illustrator beim arbeiten mit großen , komplexen interaktiven malgruppen verlangsamen .
+Orig Hyp: beachten sie , dass die performance von illustrator beim arbeiten mit großen , komplexen interaktiven malgruppen durch diese option beeinträchtigt werden kann .
+
+REF:  beachten sie , dass *** dies        von illustrator beim arbeiten mit großen , komplexen interaktiven malgruppen ***** ***** ****** ************** ****** verlangsamen .
+HYP:  beachten sie , dass die performance von illustrator beim arbeiten mit großen , komplexen interaktiven malgruppen durch diese option beeinträchtigt werden kann         .
+EVAL:                     I   S                                                                                        I     I     I      I              I      S             
+SHFT:                                                                                                                                                                         
+TER Score:  47.06 (  8.0/ 17.0)
+
+
+
+Sentence ID: 8:1
+Best Ref: sie können eine illustrator grafik als layer-pdf-datei speichern und die sichtbarkeit der ebenen in indesign gesteuert werden .
+Orig Hyp: sie können eine illustrator-grafik als layer-pdf-datei speichern und die sichtbarkeit der ebenen in indesign steuern .
+
+REF:  sie können eine illustrator grafik             als layer-pdf-datei speichern und die sichtbarkeit der ebenen in indesign gesteuert werden  .
+HYP:  sie können eine *********** illustrator-grafik als layer-pdf-datei speichern und die sichtbarkeit der ebenen in indesign ********* steuern .
+EVAL:                 D           S                                                                                            D         S        
+SHFT:                                                                                                                                             
+TER Score:  22.22 (  4.0/ 18.0)
+
+
+
+Sentence ID: 9:1
+Best Ref: um den inhalt eines grafikrahmens zu ersetzen , z. b. eine importierte grafik , verwenden sie das positionierungswerkzeug , um das bild auszuwählen .
+Orig Hyp: um den inhalt eines grafikrahmens zu ersetzen ( z. b. in einer importierten grafik ) , verwenden sie das positionierungswerkzeug , um das bild auszuwählen .
+
+REF:  um den inhalt eines grafikrahmens zu ersetzen , z. b. ** eine  importierte  grafik * , verwenden sie das positionierungswerkzeug , um das bild auszuwählen .
+HYP:  um den inhalt eines grafikrahmens zu ersetzen ( z. b. in einer importierten grafik ) , verwenden sie das positionierungsw

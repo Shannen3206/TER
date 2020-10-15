@@ -1,0 +1,131 @@
+Sentence ID: 0:1
+Original Ref: außerdem geben sie an , welche art von änderungen zulässig sind , die für das dokument zertifiziert bleiben .
+Original Hyp: sie geben außerdem an , welche art von änderungen zulässig sind , damit das dokument zertifiziert bleibt .
+Hyp After Shift: sie geben außerdem an , welche art von änderungen zulässig sind , damit das dokument zertifiziert bleibt .
+Alignment: (S S         DS   S )
+NumShifts: 0
+Score: 0.2631578947368421 (5.0/19.0)
+
+Sentence ID: 1:1
+Original Ref: führen sie einen der folgenden schritte in der optionsleiste fest :
+Original Hyp: führen sie einen der folgenden schritte in der optionsleiste aus :
+Hyp After Shift: führen sie einen der folgenden schritte in der optionsleiste aus :
+Alignment: (         S )
+NumShifts: 0
+Score: 0.09090909090909091 (1.0/11.0)
+
+Sentence ID: 2:1
+Original Ref: die letzte variable , status , einen numerischen wert , der verwendet wird , um zu bestimmen , welche optionen von ihrem telnet-client unterstützt wird .
+Original Hyp: die letzte variable " state " ist ein numerischer wert , der verwendet wird , um zu bestimmen , welche optionen von ihrem telnet-client unterstützt werden .
+Hyp After Shift: die letzte variable " state " ist ein numerischer wert , der verwendet wird , um zu bestimmen , welche optionen von ihrem telnet-client unterstützt werden .
+Alignment: (   ISSSSS                S )
+NumShifts: 0
+Score: 0.2692307692307692 (7.0/26.0)
+
+Sentence ID: 3:1
+Original Ref: weitere informationen zur verwendung von tag-codes , exportieren sie text mit tags aus einem dokument formatiert werden .
+Original Hyp: um mehr über die verwendung von tag-codes zu erfahren , exportieren sie text mit tags aus einem formatierten dokument .
+Hyp After Shift: um mehr über die verwendung von tag-codes zu erfahren , exportieren sie text mit tags aus einem dokument formatierten .
+Alignment: (ISSS   II         DS )
+NumShifts: 1
+  [18, 18, 14/16] ([dokument])
+Score: 0.5 (9.0/18.0)
+
+Sentence ID: 4:1
+Original Ref: steuert den tonwertbereich in den tiefen bzw. lichtern , die geändert werden .
+Original Hyp: steuert den tonwertbereich in den schatten bzw. lichtern , die geändert werden .
+Hyp After Shift: steuert den tonwertbereich in den schatten bzw. lichtern , die geändert werden .
+Alignment: (     S       )
+NumShifts: 0
+Score: 0.07692307692307693 (1.0/13.0)
+
+Sentence ID: 5:1
+Original Ref: wenn sie einen ordner auswählen , wird der befehl , wo möglich , um alle dateien in dem ordner angewendet .
+Original Hyp: wenn sie einen ordner auswählen , wird der befehl nach möglichkeit auf alle dateien in dem ordner angewendet .
+Hyp After Shift: wenn sie einen ordner auswählen , wird der befehl nach möglichkeit auf alle dateien in dem ordner angewendet .
+Alignment: (         DDSSS       )
+NumShifts: 0
+Score: 0.23809523809523808 (5.0/21.0)
+
+Sentence ID: 6:1
+Original Ref: wählen sie " modifizieren " > " ebenenmaske " > " einfügen als " maske . "
+Original Hyp: wählen sie " modifizieren " > " maske " > " einfügen als maske . "
+Hyp After Shift: wählen sie " modifizieren " > " maske " > " einfügen als maske . "
+Alignment: (       S     D   )
+NumShifts: 0
+Score: 0.11764705882352941 (2.0/17.0)
+
+Sentence ID: 7:1
+Original Ref: beachten sie , dass dies von illustrator beim arbeiten mit großen , komplexen interaktiven malgruppen verlangsamen .
+Original Hyp: beachten sie , dass die performance von illustrator beim arbeiten mit großen , komplexen interaktiven malgruppen durch diese option beeinträchtigt werden kann .
+Hyp After Shift: beachten sie , dass die performance von illustrator beim arbeiten mit großen , komplexen interaktiven malgruppen durch diese option beeinträchtigt werden kann .
+Alignment: (    IS          IIIIIS )
+NumShifts: 0
+Score: 0.47058823529411764 (8.0/17.0)
+
+Sentence ID: 8:1
+Original Ref: sie können eine illustrator grafik als layer-pdf-datei speichern und die sichtbarkeit der ebenen in indesign gesteuert werden .
+Original Hyp: sie können eine illustrator-grafik als layer-pdf-datei speichern und die sichtbarkeit der ebenen in indesign steuern .
+Hyp After Shift: sie können eine illustrator-grafik als layer-pdf-datei speichern und die sichtbarkeit der ebenen in indesign steuern .
+Alignment: (   DS          DS )
+NumShifts: 0
+Score: 0.2222222222222222 (4.0/18.0)
+
+Sentence ID: 9:1
+Original Ref: um den inhalt eines grafikrahmens zu ersetzen , z. b. eine importierte grafik , verwenden sie das positionierungswerkzeug , um das bild auszuwählen .
+Original Hyp: um den inhalt eines grafikrahmens zu ersetzen ( z. b. in einer importierten grafik ) , verwenden sie das positionierungswerkzeug , um das bild auszuwählen .
+Hyp After Shift: um den inhalt eines grafikrahmens zu ersetzen ( z. b. in einer importierten grafik ) , verwenden sie das positionierungswerkzeug , um das bild auszuwählen .
+Alignment: (       S  ISS I           )
+NumShifts: 0
+Score: 0.20833333333333334 (5.0/24.0)
+
+Sentence ID: 10:1
+Original Ref: die werte für " breite " und " höhe " sowie die auflösung bestimmen das endgültige pixelmaß des dokuments .
+Original Hyp: die werte für " breite " und " höhe " sowie die " auflösung " bestimmen das endgültige pixelmaß des dokuments .
+Hyp After Shift: die werte für " breite " und " höhe " sowie die " auflösung " bestimmen das endgültige pixelmaß des dokuments .
+Alignment: (            I I       )
+NumShifts: 0
+Score: 0.1 (2.0/20.0)
+
+Sentence ID: 11:1
+Original Ref: geben sie für den text ein , der anstelle des bildes angezeigt wird .
+Original Hyp: geben sie für " wert " den text ein , der anstelle des bildes angezeigt wird .
+Hyp After Shift: geben sie für " wert " den text ein , der anstelle des bildes angezeigt wird .
+Alignment: (   III           )
+NumShifts: 0
+Score: 0.21428571428571427 (3.0/14.0)
+
+Sentence ID: 12:1
+Original Ref: der status im bedienfeld " status " ausgewählt , bestimmt den inhalt , der in der schaltfläche rahmen auf der seite angezeigt wird .
+Original Hyp: der status , der im bedienfeld " status " ausgewählt ist , bestimmt den inhalt , der in der schaltfläche " rahmen " auf der indesign-seite angezeigt wird .
+Hyp After Shift: der status , der im bedienfeld " status " ausgewählt ist , bestimmt den inhalt , der in der schaltfläche " rahmen " auf der indesign-seite angezeigt wird .
+Alignment: (  II      I         I I  S   )
+NumShifts: 0
+Score: 0.25 (6.0/24.0)
+
+Sentence ID: 13:1
+Original Ref: wenn diese option aktiviert ist , wird der benutzer aufgefordert , wenn neue stammzertifikate von adobe heruntergeladen werden .
+Original Hyp: wenn diese option aktiviert ist , wird der benutzer informiert , wenn neue stammzertifikate von adobe heruntergeladen werden .
+Hyp After Shift: wenn diese option aktiviert ist , wird der benutzer informiert , wenn neue stammzertifikate von adobe heruntergeladen werden .
+Alignment: (         S         )
+NumShifts: 0
+Score: 0.05263157894736842 (1.0/19.0)
+
+Sentence ID: 14:1
+Original Ref: das bedienfeld " bilder " in der pdf-optimierung können sie die optionen für farb- , graustufen- und monochrome bildkomprimierung und downsampling .
+Original Hyp: im bedienfeld " bilder " der pdf-optimierung können sie optionen für farben , graustufen- und monochrom- bildkomprimierung und downsampling festlegen .
+Hyp After Shift: im bedienfeld " bilder " der pdf-optimierung können sie optionen für farben , graustufen- und monochrom- bildkomprimierung und downsampling festlegen .
+Alignment: (S    D    D  S   S   I )
+NumShifts: 0
+Score: 0.2727272727272727 (6.0/22.0)
+
+Sentence ID: 15:1
+Original Ref: diese option ist besonders nützlich , wenn sie sicherstellen , dass eine überschrift mit den kommenden linien des absatzes .
+Original Hyp: diese option ist besonders nützlich , wenn sie sicherstellen wollen , dass eine überschrift über den nächsten zeilen des darauf folgenden absatzes bleibt .
+Hyp After Shift: diese option ist besonders nützlich , wenn sie sicherstellen wollen , dass eine überschrift über den nächsten zeilen des darauf folgenden absatzes bleibt .
+Alignment: (         I    S SS II I )
+NumShifts: 0
+Score: 0.35 (7.0/20.0)
+
+Sentence ID: 16:1
+Original Ref: ein kontextmenü zeigt befehle , die sich au

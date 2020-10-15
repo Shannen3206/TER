@@ -1,0 +1,1016 @@
+Sentence ID: AFA20040101.0510-8:1
+Original Ref: the british spokesman indicated that "the american authorities responsible for security insisted that all passengers be questioned," adding that "passengers were forced to leave the plane and undergo questioning by the american authorities."
+Original Hyp: he noted that the authorities responsible for the british american security insisted the questioning of all the passengers , " he said , adding that the passengers were forced to quit the plane and interrogated by american authorities .
+Hyp After Shift: the british he noted that the american authorities responsible for security insisted of all the passengers , " he said , adding that the passengers were forced to quit the plane and interrogated questioning by the american authorities .
+Alignment: (  SS S      S I IIISS  IS   S   S    IS)
+NumShifts: 4
+  [7, 8, -1/-1] ([the, british])
+  [9, 9, 6/5] ([american])
+  [12, 12, 29/35] ([the])
+  [12, 12, 28/33] ([questioning])
+Score: 0.5797101449275363 (20.0/34.5)
+
+Sentence ID: AFA20040101.5400-6:1
+Original Ref: during his visit to ramallah and israeli last august al-baz put forward the concept of a new truce between the palestinians and israel but talks between the palestinian groups under egyptian patronage on this matter have not yielded a result.
+Original Hyp: al baz , was fired during a visit to israel in ramallah last august the idea of a new truce between the palestinians and israel but between palestinian factions under egyptian auspices on this matter did not result in as a result .
+Hyp After Shift: al baz , was fired during a visit to ramallah israel in last august the idea of a new truce between the palestinians and israel but between palestinian factions under egyptian auspices on this matter did not result in as a result .
+Alignment: (IIIII S   SS  DDD S          D D S  S   S IIS IS)
+NumShifts: 1
+  [11, 11, 3/8] ([ramallah])
+Score: 0.6013071895424836 (23.0/38.25)
+
+Sentence ID: AFA20040102.2700-3:1
+Original Ref: jerusalem 2-1 (afp) noga shahar, former correspondent of the israeli army gazette, has carried out a dramatic media transformation following her selection to present the "play boy" program for a television network broadcast by cable in israel.
+Original Hyp: jerusalem 1 2 ( afp ) the correspondence of the former israeli army newspaper ben striking shift in the field of public information programme for selected after " paint " network television broadcast by cable in israel .
+Hyp After Shift: jerusalem 1 2 ( afp former ) correspondence of the israeli army newspaper ben striking shift in the field of public information programme selected the after " paint for " television network broadcast by cable in israel .
+Alignment: ( SSSS IS    DSSSSSSSSSSSS SSS S      IS)
+NumShifts: 4
+  [6, 6, 24/25] ([the])
+  [9, 9, 4/4] ([former])
+  [30, 30, 31/31] ([network])
+  [23, 23, 28/28] ([for])
+Score: 0.7631578947368421 (29.0/38.0)
+
+Sentence ID: AFA20040102.6110-5:1
+Original Ref: the turkish authorities confirmed on december 26 that they had dismantled the turkish group linked to the terrorist al-qaeda organization responsible for the series of attacks.
+Original Hyp: the turkish authorities on 26 december that it dismantled the group associated with the turkish terrorist organization al qaeda responsible for a series of attacks .
+Hyp After Shift: the turkish authorities on december 26 that it dismantled the turkish group associated with the terrorist al organization qaeda responsible for a series of attacks .
+Alignment: (   D    DS    SS  S I  S  IS)
+NumShifts: 3
+  [5, 5, 5/3] ([december])
+  [14, 14, 12/9] ([turkish])
+  [16, 16, 18/17] ([organization])
+Score: 0.5098039215686274 (13.0/25.5)
+
+Sentence ID: AFA20040103.0120-5:1
+Original Ref: for his part, colombian president alvaro uribe (no relation to the defense minister), called on the rebels to "dissolve themselves and return to the constitutional path," and affirmed that "terrorism will never prevail" in colombia.
+Original Hyp: for his part , called for the colombian president alvaro ( not represented are related to the minister of defence ) rebels to " resolve themselves and return to constitutional way " and asserted that " terrorism will not win , " in colombia .
+Hyp After Shift: for his part , for colombian president alvaro ( not represented are related to the minister of called defence ) rebels to " resolve themselves and return to the constitutional way " and asserted that " terrorism will not win , " in colombia .
+Alignment: (  IIS   IISSS  SS SS  IS      IS S IS IISS IS)
+NumShifts: 2
+  [4, 4, 13/18] ([called])
+  [5, 5, 22/28] ([the])
+Score: 0.7659574468085106 (27.0/35.25)
+
+Sentence ID: AFA20040103.2900-8:1
+Original Ref: he added that pilgrims will be divided into various groups to perform the rites and that special forces will be deployed to intervene in the event of over-crowdedness.
+Original Hyp: he will be divided into several groups of pilgrims to perform the services it will be deployed special forces to interfere in the case of congestion .
+Hyp After Shift: he pilgrims will be divided into several groups of to perform the services it special forces will be deployed to interfere in the case of congestion .
+Alignment: ( DD     S I   DSS      S  S IS)
+NumShifts: 2
+  [17, 18, 17/13] ([special, forces])
+  [8, 8, 3/0] ([pilgrims])
+Score: 0.46846846846846846 (13.0/27.75)
+
+Sentence ID: AFA20040103.5700-2:1
+Original Ref: islamabad 3-1 (afp) indian prime minister atal bihari vajpayee arrived today, saturday, in islamabad on the first visit to be conducted by an indian prime minister to pakistan since february 1999.
+Original Hyp: islamabad , 3.1 ( afp ) indian prime minister atal bihari vajpayee on saturday in islamabad in the first visit by the chairman of the indian government to pakistan since february 1999 .
+Hyp After Shift: islamabad , 3.1 ( afp ) indian prime minister atal bihari vajpayee on saturday in islamabad in the first visit the chairman of by the indian government to pakistan since february 1999 .
+Alignment: ( IIISS      DSS  S   SSS S DS    IS)
+NumShifts: 1
+  [20, 20, 21/23] ([by])
+Score: 0.6101694915254238 (18.0/29.5)
+
+Sentence ID: AFA20040103.7010-6:1
+Original Ref: khaddam made these statements at the end of his meeting with a delegation of iraqi tribes that were visiting damascus.
+Original Hyp: khaddam has made these statements at the end of his meeting with a delegation of iraqi clans to visit damascus .
+Hyp After Shift: khaddam has made these statements at the end of his meeting with a delegation of iraqi clans to visit damascus .
+Alignment: ( I              SSSSS)
+NumShifts: 0
+Score: 0.32432432432432434 (6.0/18.5)
+
+Sentence ID: AFA20040103.7010-7:1
+Original Ref: an israeli ministerial committee decided last wednesday to increase the number of people living in agricultural settlements on the golan heights by fifty per cent.
+Original Hyp: the israeli ministerial committee decided wednesday to increase the number of the population of the agricultural settlements in the golan heights by 50 percent .
+Hyp After Shift: the israeli ministerial committee decided wednesday to increase the number of the population of the agricultural settlements in the golan heights by 50 percent .
+Alignment: (S    D      ISSS  S    SSS)
+NumShifts: 0
+Score: 0.43478260869565216 (10.0/23.0)
+
+Sentence ID: AFA20040103.9100-4:1
+Original Ref: a source close to the palace said that the prince of monaco was "suffering from exhaustion" following the end of year celebrations and would undergo a series of medical examinations.
+Original Hyp: said a source close to the minors that the prince of monaco was " fatigue " after the end of the year celebrations would be subject to a series of medical examinations .
+Hyp After Shift: a source close to the minors said that the prince of monaco was " fatigue " after the end of the year celebrations be would subject to a series of medical examinations .
+Alignment: (     S       SSSS   I  S IS    IS)
+NumShifts: 2
+  [0, 0, 6/6] ([said])
+  [23, 23, 22/24] ([would])
+Score: 0.4406779661016949 (13.0/29.5)
+
+Sentence ID: AFA20040103.9200-6:1
+Original Ref: the army has been mounting a major operation for over two weeks in nablus in search of palestinian activists.
+Original Hyp: army was pursuing an extensive process for more than two weeks in nablus in search of palestinian activists .
+Hyp After Shift: army was pursuing an extensive process more for than two weeks in nablus in search of palestinian activists .
+Alignment: (D SSSSSS S        IS)
+NumShifts: 1
+  [6, 6, 8/7] ([for])
+Score: 0.5641025641025641 (11.0/19.5)
+
+Sentence ID: AFA20040104.3110-1:1
+Original Ref: tony blair puts forward new ideas to president mubarak to drive peace process (maher)
+Original Hyp: tony blair put on president mubarak new ideas to advance the peace process ( maher )
+Hyp After Shift: tony blair put on new ideas to president mubarak advance the peace process ( maher )
+Alignment: (  SS     SS  IIS)
+NumShifts: 1
+  [4, 5, 6/8] ([president, mubarak])
+Score: 0.6037735849056604 (8.0/13.25)
+
+Sentence ID: AFA20040104.3110-3:1
+Original Ref: maher told reporters that blair, who met with mubarak yesterday evening, saturday, at the sharm al sheikh resort on the red sea, proposed "that the quartet performs an important role through some new ideas he presented."
+Original Hyp: said maher told reporters that blair , who met with mubarak on saturday night in sharm el sheikh resort on the red sea , he proposed that the quartet to play an important role through some new ideas put forward by . "
+Hyp After Shift: said maher told reporters that blair , who met with mubarak on saturday night in sharm el sheikh resort on the red sea , proposed that the quartet to play an important role through some new ideas he put forward by . "
+Alignment: (I    IS    DSSSS S     IS S  IS        IIIIS)
+NumShifts: 1
+  [24, 24, 33/37] ([he])
+Score: 0.5194805194805194 (20.0/38.5)
+
+Sentence ID: AFA20040104.7300-4:1
+Original Ref: the expert who wished to remain anonymous said that "the matter depends on the condition of the bodies."
+Original Hyp: the expert who requested anonymity said that " the situation of the matter is linked to the dead bodies " .
+Hyp After Shift: the expert who requested to anonymity " the said that situation matter is linked the dead of the bodies " .
+Alignment: (   S ISS  S SS S  IIS)
+NumShifts: 3
+  [5, 6, 6/8] ([said, that])
+  [10, 11, 14/17] ([of, the])
+  [13, 13, 3/3] ([to])
+Score: 0.7887323943661971 (14.0/17.75)
+
+Sentence ID: AFA20040104.7300-5:1
+Original Ref: the expert continued before entering the hospital "we have teams at the judicial police and gendarmes, and these teams in paris are ready to intervene when we determine for them what we need."
+Original Hyp: . consultant before entering the hospital , " we have a difference in the judicial police and the gendarmerie in paris is prepared to intervene when the teams to identify with what we need it . "
+Hyp After Shift: the . consultant before entering the hospital , " have a difference in the judicial police and the gendarmerie teams in paris is prepared to intervene when we to identify with what we need it . "
+Alignment: ( SS    IS ISS    DSS   SS    SSS  IIIS)
+NumShifts: 3
+  [26, 26, -1/-1] ([the])
+  [9, 9, 25/26] ([we])
+  [27, 27, 18/18] ([teams])
+Score: 0.6376811594202898 (22.0/34.5)
+
+Sentence ID: AFA20040104.8400-4:1
+Original Ref: he added "when there is palestinian action against the israelis the world is in total uproar yet the world does nothing about israeli crimes, especially in nablus and rafah."
+Original Hyp: he added , " when there is a palestinian action against the israelis do not abstain without the minimum move the world nothing about the israeli crimes in nablus and rafah . " particular
+Hyp After Shift: he added , " when there is a palestinian action against the israelis the do not abstain without minimum move the world nothing about israeli the crimes in nablus and rafah . " particular
+Alignment: (  IIS  I      SSSSSS  D   SS   IIIS)
+NumShifts: 2
+  [17, 17, 9/12] ([the])
+  [25, 25, 21/23] ([israeli])
+Score: 0.6031746031746031 (19.0/31.5)
+
+Sentence ID: AFA20040104.9200-3:1
+Original Ref: the saudi news agency quoted prince nayef as saying, shortly before departing riyadh on saturday on his way to tunisia to participate in the arab interior ministers meeting, "although channels are open between us and them (the british), they did not notify us of anything regarding aircraft."
+Original Hyp: news agency quoted the saudi prince nayef as saying before leaving riyadh on saturday , heading to tunisia to participate in the meetings of arab interior ministers " even though the channels open between us and them ( british ) did not for aircraft of anything . "
+Hyp After Shift: the saudi news agency quoted prince nayef as saying before leaving riyadh on saturday , heading to tunisia to participate in the meetings of arab interior ministers " even though channels the open between us and them ( british ) did not for aircraft of anything . "
+Alignment: (        DS S   DSS      II   ISS S     SSS  SS  SS)
+NumShifts: 2
+  [3, 4, -1/-1] ([the, saudi])
+  [31, 31, 28/29] ([channels])
+Score: 0.4221105527638191 (21.0/49.75)
+
+Sentence ID: AFA20040105.3220-4:1
+Original Ref: on 24 december anan stated that he would on the 19th of this month meet the iraqi interim ruling council to study the role that the united nations could play in iraq.
+Original Hyp: on 24 december reported that annan will meet 19 of the current iraqi transitional governing council to examine the role of the united nations could play in iraq .
+Hyp After Shift: on 24 december reported that annan will 19 of meet the current iraqi transitional governing council to examine the role of the united nations could play in iraq .
+Alignment: (   DS DDSSS DD  I SS  S  S      IS)
+NumShifts: 1
+  [7, 7, 13/9] ([meet])
+Score: 0.5396825396825397 (17.0/31.5)
+
+Sentence ID: AFA20040105.4910-7:1
+Original Ref: straw continued, "i believe that we have established a relationship of trust with libya that has allowed it firstly to renounce terrorism and secondly to abandon continuation of its program to develop weapons of mass destruction."
+Original Hyp: straw . " i think we have established a relationship of trust with libya renounce terrorism and provided first and second to give up on the continuing its programme for developing weapons of mass destruction . "
+Hyp After Shift: straw . " i think we have established a relationship of trust with libya provided first and second to renounce terrorism and give up on the continuing its programme for developing weapons of mass destruction . "
+Alignment: ( SSSS         DSSSS    SSSSS SSS   IIS)
+NumShifts: 1
+  [14, 16, 22/21] ([renounce, terrorism, and])
+Score: 0.5714285714285714 (21.0/36.75)
+
+Sentence ID: AFA20040105.6000-2:1
+Original Ref: washington 1-6 (afp) - an american official announced yesterday monday that turkish prime minister recep tayyip erdogan would head for the united states at the end of january on an official visit mainly dedicated to iraq, especially its kurdish region.
+Original Hyp: washington 6 1 ( afp ) american official announced yesterday a turkish prime minister rajab tayib ardogan would travel to the united states the end of january in an official visit in iraq in particular section of the kurdish section of the larger .
+Hyp After Shift: washington 6 1 ( afp ) american official announced yesterday a turkish prime minister rajab tayib ardogan would travel to the united states the end of january in an official visit in iraq in particular section of the kurdish section of the larger .
+Alignment: ( ISSSS    DS   SSS SS   D    S   ISSSSSS IIIIS)
+NumShifts: 0
+Score: 0.5810055865921788 (26.0/44.75)
+
+Sentence ID: AFA20040105.6200-2:1
+Original Ref: riyadh 5-1 (afp) a saudi security source today, monday, told france press that on sunday evening/monday a bomb was discovered in a private telecommunications office in riyadh and was "removed" from the site. he did not give details about the nature of the bomb.
+Original Hyp: riyadh 5 1 ( afp ) saudi security source said on monday told agence france presse , was found on sunday night to monday a bomb in the office of special telephone in riyadh , was withdrawn " from the place , without mention any details about the nature of the bomb .
+Hyp After Shift: riyadh 5 1 ( afp ) saudi security source said on monday told agence france presse , found on sunday night to monday a bomb was the in of special telephone office in riyadh , was withdrawn " from the place , without mention any details about the nature of the bomb .
+Alignment: ( IISSS   ISS I ISS  IIS   S SSS   S IS  SSSSS      IS)
+NumShifts: 3
+  [17, 17, 18/25] ([was])
+  [26, 26, 20/27] ([in])
+  [28, 28, 24/31] ([office])
+Score: 0.6772486772486772 (32.0/47.25)
+
+Sentence ID: AFA20040106.6100-2:1
+Original Ref: tehran 1-6 (afp) - iranian foreign ministry spokesman said that iran welcomes the adoption by her neighbor, afghanistan, of a new constitution and continues it full support of the temporary government headed by hamid karzai.
+Original Hyp: tehran , 6 1 ( afp ) iranian foreign ministry spokesman said that iran welcomes the adoption of its neighbour afghanistan a new constitution continues its full support of the interim government headed by hamid karzai .
+Hyp After Shift: tehran , 6 1 ( afp ) iranian foreign ministry spokesman said that iran welcomes the adoption its neighbour afghanistan of a new constitution continues its full support of the interim government headed by hamid karzai .
+Alignment: ( IIISSS          DSSS    D S    S    IS)
+NumShifts: 1
+  [17, 17, 18/20] ([of])
+Score: 0.4383561643835616 (16.0/36.5)
+
+Sentence ID: AFA20040106.6100-3:1
+Original Ref: in statements broadcast by the iranian news agency hamid reza asfi said on monday evening/tuesday that the adoption of the first constitution since the fall of the taliban regime constituted " an important step".
+Original Hyp: hamid reza asefi in a statement broadcast by the iranian news agency on monday evening to build the first constitution since the fall of the taliban regime is " an important step . "
+Hyp After Shift: asefi in a statement broadcast by the iranian news agency hamid reza on monday evening to build the first constitution since the fall of the taliban regime is " an important step . "
+Alignment: (I IS        DD  DDSSS          S   IIS)
+NumShifts: 1
+  [0, 1, 8/11] ([hamid, reza])
+Score: 0.4444444444444444 (15.0/33.75)
+
+Sentence ID: AFA20040106.7300-1:1
+Original Ref: north korea and iran participated in development of weapons of mass destruction in libya (newspaper)
+Original Hyp: north korea and iran participated in the development of weapons of mass destruction in libya ( newspaper )
+Hyp After Shift: north korea and iran participated in the development of weapons of mass destruction in libya ( newspaper )
+Alignment: (      I        IIS)
+NumShifts: 0
+Score: 0.2857142857142857 (4.0/14.0)
+
+Sentence ID: AFA20040106.7300-6:1
+Original Ref: the newspaper said that the libyan declaration could allow inspectors to study the military technology of north korea and iran.
+Original Hyp: the newspaper said that the libyan declaration would allow the inspectors examined each of military technology from north korea and iran .
+Hyp After Shift: the newspaper said that the libyan declaration would allow inspectors examined each the military technology of from north korea and iran .
+Alignment: (       S  SS    I   IS)
+NumShifts: 2
+  [9, 9, 11/12] ([the])
+  [13, 13, 14/15] ([of])
+Score: 0.3902439024390244 (8.0/20.5)
+
+Sentence ID: AFA20040129.5120-6:1
+Original Ref: in a statement the army offered its condolences to the families of the soldiers.
+Original Hyp: the army offered his condolences to the families of soldiers in a statement .
+Hyp After Shift: in a statement the army offered his condolences to the families of soldiers .
+Alignment: (      S     SS)
+NumShifts: 1
+  [10, 12, -1/-1] ([in, a, statement])
+Score: 0.2857142857142857 (4.0/14.0)
+
+Sentence ID: AFA20040130.6910-2:1
+Original Ref: washington 1-30 (afp) - democratic representative victor sneider confirmed today friday the idea of american congressmen visiting iran was discussed this week during a dinner between members of congress and the iranian ambassador to the united nations mohamed javad zarif.
+Original Hyp: washington , 30 1 ( afp ) democratic mp victor snider's friday that the idea of american parliamentarians who visited iran considered this week during a dinner between the iranian ambassador members of congress to the united nations mohammad javad zarif .
+Hyp After Shift: washington , 30 1 ( afp ) democratic mp victor snider's that friday the idea of american parliamentarians who iran visited considered this week during a dinner between members of congress the iranian ambassador to the united nations mohammad javad zarif .
+Alignment: ( IIISSS S DSS     SS SS         D       S IS)
+NumShifts: 3
+  [28, 30, 32/33] ([the, iranian, ambassador])
+  [11, 11, 10/12] ([friday])
+  [20, 20, 16/18] ([iran])
+Score: 0.509090909090909 (21.0/41.25)
+
+Sentence ID: AFA20040130.6910-9:1
+Original Ref: he said, "i believe that this will take place only as part of the affirmation taking place at present that the world will be better if iran and the united states can overcome the lack of trust and differences."
+Original Hyp: " i believe that this is only in being recognized , the world would be better if iran and the united states to overcome the differences . " the lack of confidence
+Hyp After Shift: " i believe that this is only of the in being recognized , the world would be better if iran and the united states to overcome the lack differences . " confidence
+Alignment: (DSS   DDS DD  DDSSSS  S        S   SSSS)
+NumShifts: 2
+  [28, 30, 32/23] ([the, lack, of])
+  [26, 27, 12/6] ([of, the])
+Score: 0.5569620253164557 (22.0/39.5)
+
+Sentence ID: AFA20040131.3700-8:1
+Original Ref: bremer said that "those officials achieved, like thousands of other iraqis, tangible progress to guarantee the security and future of the new iraq".
+Original Hyp: bremer said that " these officers have the iraqi and other tangible progress to ensure security and the future of the new iraq .
+Hyp After Shift: bremer said that " these officers have iraqi and other tangible progress to ensure the security and the future of the new iraq .
+Alignment: (   SSSSSS D   S   I    IS)
+NumShifts: 1
+  [7, 7, 15/14] ([the])
+Score: 0.5274725274725275 (12.0/22.75)
+
+Sentence ID: AFA20040131.4510-5:1
+Original Ref: before that newspapers today, saturday, reported information that said a malfunction or failure in the control device could be behind the accident.
+Original Hyp: before that , newspapers reported today that the information or guidance system to a breakdown in may be behind the incident .
+Hyp After Shift: before that newspapers , reported today that the a information or guidance in system to breakdown may be behind the incident .
+Alignment: (   DS S S S S SSSS   IS)
+NumShifts: 3
+  [13, 13, 8/7] ([a])
+  [3, 3, 2/1] ([newspapers])
+  [15, 15, 12/11] ([in])
+Score: 0.6 (15.0/25.0)
+
+Sentence ID: AKHB20040219.001-1:1
+Original Ref: tunisia's relations with the united states of america are distinguished and traditional. they are based on mutual trust and respect and stem from the eighteenth century, specifically to 1797, the date of the first commercial agreement between tunisia and the united states.
+Original Hyp: relations with tunisia , united states of america on the distinctive and traditional relations of mutual trust and respect due to the eighteenth century , particularly to the year the date of the first trade agreement between tunisia and the united states .
+Hyp After Shift: relations with the tunisia , united states of america the distinctive and traditional relations of on mutual trust and respect due to the eighteenth century , particularly to year the date of the first trade agreement between tunisia and the united states .
+Alignment: (D   II    SS DSSS     DSS  ISS S     S      IS)
+NumShifts: 2
+  [8, 8, 15/14] ([on])
+  [27, 27, 2/1] ([the])
+Score: 0.46153846153846156 (21.0/45.5)
+
+Sentence ID: AKHB20040221.001-1:1
+Original Ref: i note at the outset that there has been no delay in the sphere of democracy and freedom of expression in tunisia, for the construction of every democratic society is inseparable from comprehensive development work
+Original Hyp: note at the outset that there was no delay in the area of democracy and freedom of expression in tunisia in building a democratic society go hand in hand with the work of the comprehensive development .
+Hyp After Shift: note at the outset that there was no delay in the area of democracy and freedom of expression in tunisia in building a the go hand in hand democratic society with of the comprehensive development work .
+Alignment: (D      DS    S      II SS ISSS  SSS   I)
+NumShifts: 3
+  [23, 24, 26/28] ([democratic, society])
+  [30, 30, 22/22] ([the])
+  [31, 31, 33/35] ([work])
+Score: 0.5390070921985816 (19.0/35.25)
+
+Sentence ID: ALH20040204.001-1:1
+Original Ref: do the iraqi secularists realize that the united states has, for a long time, exploited the factors of backwardness spread by a humiliating subservience to western attitudes, specifically secularism, for which some among us call?
+Original Hyp: the secularists are aware that the united states , for a long time , took advantage of factors's underdevelopment humiliating subordination to the west , namely secular curriculum , which advocated by some of us ?
+Hyp After Shift: the are secularists aware that the united states , for a long time , the took advantage of factors's underdevelopment by humiliating subordination to west , namely secular curriculum , which advocated some of us ?
+Alignment: (D S S    S   SS IS SS D S ISSSSS I S S)
+NumShifts: 3
+  [31, 31, 19/18] ([by])
+  [1, 1, 3/2] ([secularists])
+  [23, 23, 14/13] ([the])
+Score: 0.64 (24.0/37.5)
+
+Sentence ID: ALH20040204.007-3:1
+Original Ref: here i find myself again in disagreement with the governing council. it comprises, in my personal judgment, seven or eight members of untarnished patriots among whom specifically is adnan pachachi, who i mention in his capacity as the president of the governing council for this month.
+Original Hyp: and here i am once again at odds with the governing council , it comprises seven members of the judgments in personal or eight national who do not emerge from their patriotism , including specific bajah adnan g . , which remind him in his capacity as chairman of the governing council this month .
+Hyp After Shift: and here i am once again at odds with the governing council , it comprises in judgments personal seven or eight members of national do not emerge from their patriotism , including specific bajah adnan g . , who which remind him in his capacity as the chairman of the governing council month this .
+Alignment: (I  SS SS   IS S S D     IIIIISSSSSS IIS ISS     S    S S)
+NumShifts: 6
+  [16, 17, 19/23] ([members, of])
+  [15, 15, 17/19] ([seven])
+  [15, 15, 37/46] ([the])
+  [16, 16, 12/14] ([in])
+  [24, 24, 29/38] ([who])
+  [52, 52, 44/53] ([this])
+Score: 0.7659574468085106 (36.0/47.0)
+
+Sentence ID: ALH20040206.002-5:1
+Original Ref: saudi arabia: religious courts, after the issuance of the new saudi arbitration law, still consider that the arbitration stipulation does not remove their competence, and they proceed with a lawsuit despite the arbitration stipulation and in spite of the adherence of one of the parties in the conflict to the arbitration.
+Original Hyp: saudi arabia have sharia courts after the issuance of the arbitration act of the new saudi that the arbitration clause , however , contend with its jurisdiction with and in spite of the arbitration clause despite the adherence to one of the parties to the dispute to arbitration .
+Hyp After Shift: saudi arabia have sharia courts after the issuance of the new saudi arbitration act of the that the arbitration clause , however , contend with its jurisdiction with clause despite the arbitration and in spite of the adherence to one of the parties to the dispute to arbitration .
+Alignment: ( ISSS        SSS   DSSSSSSSS DS   D      S    S S SS)
+NumShifts: 3
+  [28, 32, 38/36] ([and, in, spite, of, the])
+  [14, 15, 8/9] ([new, saudi])
+  [28, 28, 32/31] ([arbitration])
+Score: 0.5454545454545454 (27.0/49.5)
+
+Sentence ID: ALH20040206.002-7:1
+Original Ref: syria: an international arbitration verdict was issued between the "stahl e gistel and alloys " company (swiss) and the syrian "public company for fertilizers", which is a government company.
+Original Hyp: syria : an international arbitration was sentenced to between the company , " stahl any and ( swiss ) and " public company for fertilizers , " the syrian government company .
+Hyp After Shift: syria : an international arbitration sentenced was to between the , stahl any and ( " swiss company ) and the syrian " public company for fertilizers , " company government .
+Alignment: (IS   S S  SSS S I S   IS  SSSS S)
+NumShifts: 5
+  [27, 28, 18/19] ([the, syrian])
+  [10, 10, 15/17] ([company])
+  [5, 5, 5/6] ([was])
+  [11, 11, 13/15] (["])
+  [29, 29, 27/30] ([government])
+Score: 0.8543689320388349 (22.0/25.75)
+
+Sentence ID: ALH20040206.003-8:1
+Original Ref: he entered the bazaar and went far.
+Original Hyp: income , which went away .
+Hyp After Shift: income , which away went .
+Alignment: (DSSSS S)
+NumShifts: 1
+  [3, 3, 5/4] ([went])
+Score: 0.9655172413793104 (7.0/7.25)
+
+Sentence ID: ALH20040220.001-2:1
+Original Ref: a quarter of a century ago, khomeini's views attracted people.
+Original Hyp: khomeini a quarter of a century ago has attracted people's thoughts .
+Hyp After Shift: khomeini a quarter of a century ago has people's attracted thoughts .
+Alignment: (I     SSS IS)
+NumShifts: 1
+  [8, 8, 7/9] ([attracted])
+Score: 0.6666666666666666 (7.0/10.5)
+
+Sentence ID: ALH20040220.001-8:1
+Original Ref: the matter is not related to the future of mohammad khatami.
+Original Hyp: it is not on the future of the mohammad khatami .
+Hyp After Shift: the it is not on the future of mohammad khatami .
+Alignment: ( S  DS    IS)
+NumShifts: 1
+  [7, 7, -1/-1] ([the])
+Score: 0.631578947368421 (6.0/9.5)
+
+Sentence ID: ALH20040227.001-5:1
+Original Ref: suspicion, dissatisfaction and anger are the custom of the iraqis.
+Original Hyp: suspicion and malaise and anger are usually the iraqis .
+Hyp After Shift: suspicion and malaise and anger are the usually iraqis .
+Alignment: (ISS    DSSS)
+NumShifts: 1
+  [7, 7, 5/5] ([the])
+Score: 0.7441860465116279 (8.0/10.75)
+
+Sentence ID: ALH20040227.001-6:1
+Original Ref: poor man, his mission is tiring.
+Original Hyp: poor , tired of his mission .
+Hyp After Shift: poor , tired of his mission .
+Alignment: ( IIS  DS)
+NumShifts: 0
+Score: 0.8333333333333334 (5.0/6.0)
+
+Sentence ID: ALH20040303.001-5:1
+Original Ref: it is evident that yesterday's massacre aimed at setting off the fire.
+Original Hyp: clear that the massacre yesterday aimed at setting on fire .
+Hyp After Shift: clear that the massacre yesterday aimed at setting on fire .
+Alignment: (DDS S I   SSS)
+NumShifts: 0
+Score: 0.6808510638297872 (8.0/11.75)
+
+Sentence ID: ALH20040304.001-1:1
+Original Ref: the iraqis did not accuse the american forces of involvement in the explosions that bloodied karbala and baghdad the day before yesterday.
+Original Hyp: has been charged with the iraqi u . s . forces of involvement in the explosions karbala and baghdad yesterday .
+Hyp After Shift: has been charged with iraqi u . s . forces of involvement in the explosions karbala and baghdad the yesterday .
+Alignment: (IISSSSSSS      DD    DSS)
+NumShifts: 1
+  [4, 4, 18/18] ([the])
+Score: 0.6666666666666666 (15.0/22.5)
+
+Sentence ID: ALH20040304.002-6:1
+Original Ref: in any case, the greater middle east initiative relies heavily on the arab human development plan for 2002 and 2003.
+Original Hyp: in any case , the greater middle east initiative to rely heavily on the arab human development plan for 2002 and 2003 .
+Hyp After Shift: in any case , the greater middle east initiative to rely heavily on the arab human development plan for 2002 and 2003 .
+Alignment: (  IS     IS          IS)
+NumShifts: 0
+Score: 0.27586206896551724 (6.0/21.75)
+
+Sentence ID: ALH20040305.001-9:1
+Original Ref: the reports of its envoys are influential and often decisive.
+Original Hyp: it the reports of the task often be decisive .
+Hyp After Shift: it the reports of the task be decisive often .
+Alignment: (I   DSSSS S)
+NumShifts: 1
+  [6, 6, 8/8] ([often])
+Score: 0.8421052631578947 (8.0/9.5)
+
+Sentence ID: ALH20040305.002-1:1
+Original Ref: when ramon does not find something to lie about, he seeks the help of others as he in one of the chapters quotes the american defense secretary donald rumsfeld as saying that tehran helped members of al-qaeda and taliban escape via iran.
+Original Hyp: when ramon does not see the lie , it is used , in one of those attributed to the american defense secretary donald rumsfeld as saying that tehran helped al qaeda and taliban flight via iran .
+Hyp After Shift: when ramon does not see to lie the , it is used , in one of those attributed the american defense secretary donald rumsfeld as saying that tehran helped al qaeda and taliban flight via iran .
+Alignment: (    DS  DDD SSSSS   DSS           DSS  S IS)
+NumShifts: 2
+  [5, 5, 11/6] ([the])
+  [17, 17, 6/4] ([to])
+Score: 0.4772727272727273 (21.0/44.0)
+
+Sentence ID: ALH20040305.002-3:1
+Original Ref: rumsfeld's speech was in january 2002 and we now know that every accusation made by the american administration prior to the war on iraq was a lie.
+Original Hyp: said was issued in january ( january 2002 , we now know that every accusation made by the american administration before the war on iraq were false .
+Hyp After Shift: said issued was in january ( january 2002 , we now know that every accusation made by the american administration before the war on iraq were false .
+Alignment: (SS  II  S           DS    SSS)
+NumShifts: 1
+  [1, 1, 2/2] ([was])
+Score: 0.42718446601941745 (11.0/25.75)
+
+Sentence ID: AMI20020707.001-1:1
+Original Ref: at the outset, i thank you for the warm welcome and the joy with which you have received us.
+Original Hyp: at the outset to thank you for the warm welcome and rejoicing , which them .
+Hyp After Shift: at the outset to thank you for the warm welcome and rejoicing , which them .
+Alignment: (  SS       DSS DDSS)
+NumShifts: 0
+Score: 0.47368421052631576 (9.0/19.0)
+
+Sentence ID: AMI20020707.001-3:1
+Original Ref: the aim of the visit is to contact you and talk with you about national and local issues that concern you and to provide you with information about the achievements realized by our development route.
+Original Hyp: that the objective of the visit is to contact you talk with you on national issues and local information on the quarters undertaken by the development process .
+Hyp After Shift: the objective of the visit is to contact you talk with you on national and local issues that information on the quarters undertaken by the development process .
+Alignment: ( S       D   S     DDDDDDD S SS S IS)
+NumShifts: 2
+  [0, 0, 18/15] ([that])
+  [16, 17, 15/13] ([and, local])
+Score: 0.4675324675324675 (18.0/38.5)
+
+Sentence ID: ANN20040204.001-2:1
+Original Ref: the spaniards, from the right and the left, especially the left, acknowledge that spain had big interests in saddam hussein's iraq, not the size of the huge french interests throughout the entire former reign, of course.
+Original Hyp: from the rightist , especially the left to that spain was sponsoring the interests of the great saddam course is not the size of the interests of french huge during all the covenant .
+Hyp After Shift: the from the rightist the , especially the left to that spain was sponsoring interests great saddam course is not the size of the of french interests huge the during all covenant of .
+Alignment: ( D  DS S  SS  SS S SS     S  S SSS S)
+NumShifts: 5
+  [12, 12, -1/-1] ([the])
+  [14, 14, 34/32] ([of])
+  [14, 14, 6/3] ([the])
+  [24, 24, 28/26] ([interests])
+  [30, 30, 29/27] ([the])
+Score: 0.5751633986928104 (22.0/38.25)
+
+Sentence ID: ANN20040204.001-3:1
+Original Ref: as they acknowledge, especially the right, the american double standards for a long time in iraq, particularly during the eighties.
+Original Hyp: recognize as , in particular , the american double standards for a long time in iraq especially during the 1980s .
+Hyp After Shift: as recognize , in particular , the american double standards for a long time in iraq especially during the 1980s .
+Alignment: ( SSSSS         SS  IS)
+NumShifts: 1
+  [1, 1, -1/-1] ([as])
+Score: 0.5194805194805194 (10.0/19.25)
+
+Sentence ID: ANN20040204.002-2:1
+Original Ref: they have not yet come to believe, or, more properly, have not yet become accustomed, to behave as the men of a state preparing to become healthier than it was in the past.
+Original Hyp: have not yet done so , or rather , are not used to act as the state preparing to become healthier than before .
+Hyp After Shift: have not yet done so , or rather , are not used to act as the state preparing to become healthier than before .
+Alignment: (D   SSSSSSS DDS S  DDD      DDDSS)
+NumShifts: 0
+Score: 0.6451612903225806 (20.0/31.0)
+
+Sentence ID: ANN20040204.003-3:1
+Original Ref: an opposition which, like western oppositions, must remain strong, exactly as british prime minister tony blair wished for his country when he said that he is sad because his opposition is weak.
+Original Hyp: opposition , as opposed to the west should remain strong , just as british prime minister tony blair wished his country when he said that sad because his opposition to the weak .
+Hyp After Shift: , opposition as opposed to the west should remain strong , just as british prime minister tony blair wished his country when he said that sad because his opposition to the weak .
+Alignment: (S ISSSSS ISS       D      DD    IISS)
+NumShifts: 1
+  [0, 0, 0/1] ([opposition])
+Score: 0.5333333333333333 (18.0/33.75)
+
+Sentence ID: ANN20040204.003-4:1
+Original Ref: we assure the ministers and tell them: do not be sad, your opposition is strong thanks to your great mistakes, and it seems like they are getting greater day after day.
+Original Hyp: we assure the prime minister we say to them : do not be sad , by the great strong it seems it is growing day by day .
+Hyp After Shift: we assure the prime minister we do not be say them : sad , by to the great strong it seems it is growing day by day .
+Alignment: (   DSSS   SSSSSS S DS  SSSSS DS)
+NumShifts: 2
+  [10, 12, 6/5] ([do, not, be])
+  [10, 10, 16/15] ([to])
+Score: 0.7333333333333333 (22.0/30.0)
+
+Sentence ID: ANN20040204.004-4:1
+Original Ref: for it aims to create an atmosphere of fear in the souls of not just those thinking of perpetrating a given crime for different reasons but also in the souls of those seduced, in the belief of the authority, by the idea of freedom, liberation, opposition or overthrow of the regime and the composition currently ruling, or even the idea of revolt at this sensitive stage through which the region is passing, which scares many rulers.
+Original Hyp: it aimed at creating an atmosphere of terror in the same is not only think about to embark on a specific offence for various reasons but also in from the dream , as the authority believes the idea of freedom , freedom and the opposition or the heart of the system and composition of the ruling or even the idea of insurgency in this critical stage through the region , which terrified many rulers .
+Hyp After Shift: it aimed to at creating an atmosphere of terror in the same is not only think about embark on a specific offence for various reasons but also in from the dream , as authority believes the freedom of the , freedom the idea of and the opposition or heart of the system and the composition ruling or even the idea of insurgency in this critical stage through the region , which terrified many rulers .
+Alignment: (D S IS   S  SS SSSSS SS S    I SSSSS S  SS   SS  S  S   DS     SS S  D  DS S IS)
+NumShifts: 5
+  [36, 38, 42/41] ([the, idea, of])
+  [53, 54, 37/36] ([of, the])
+  [48, 48, 52/53] ([the])
+  [16, 16, 2/1] ([to])
+  [33, 33, 34/35] ([the])
+Score: 0.5925925925925926 (44.0/74.25)
+
+Sentence ID: ANN20040204.004-7:1
+Original Ref: the practical reality lebanon is wallowing in is a clear indication that it is, as you say, a "state of non-law" or a "state of no-rights."
+Original Hyp: practical in fact , in which lebanon is a clear indication as you say " state law " or " state " .
+Hyp After Shift: in practical fact lebanon is , in which a clear indication as you say " state law " or " state " .
+Alignment: (S S  S S   DDD  SSSSS SSSS)
+NumShifts: 2
+  [6, 7, 2/2] ([lebanon, is])
+  [0, 0, 1/1] ([practical])
+Score: 0.6792452830188679 (18.0/26.5)
+
+Sentence ID: ANN20040204.005-8:1
+Original Ref: the people accept that they should be ruled by the criteria of a class system older and more arrogant than the old class systems about which we were often told that they had caused the war.
+Original Hyp: that people who govern in accordance with the standards of the class type spent from the old and intractable as long as we were told that it had produced the war .
+Hyp After Shift: the people that who govern in accordance with the standards of class and type spent from the old intractable as long as we were told that it had produced the war .
+Alignment: (  D SSSSS S D DD SSS  SSSS  D  S S IS)
+NumShifts: 3
+  [17, 17, 16/11] ([and])
+  [0, 0, 3/1] ([that])
+  [10, 10, -1/-1] ([the])
+Score: 0.7299270072992701 (25.0/34.25)
+
+Sentence ID: ANN20040205.002-2:1
+Original Ref: at each stage in the export of iraqi oil, we were given quotas equal to the quota of other oil companies, including american ones, through sonatrack's branch in london.
+Original Hyp: thus in each stage of the export of iraqi oil has been made by the us quota formula for petroleum and other companies including american , through the branch " sonatrach " in london .
+Hyp After Shift: thus each stage in the export of iraqi has been made by us quota formula the for petroleum of and other oil companies including american , through the branch " sonatrach " in london .
+Alignment: (S       SSSSSSS IS I  S  S S III IS)
+NumShifts: 4
+  [9, 9, 19/21] ([oil])
+  [1, 1, 2/3] ([in])
+  [4, 4, 16/18] ([of])
+  [12, 12, 14/15] ([the])
+Score: 0.6715328467153284 (23.0/34.25)
+
+Sentence ID: ANN20040220.001-6:1
+Original Ref: at home the phantom of wars and death in the form of the intelligence services pursued everyone, even those who thought that they were acceptable to the regime or enrolled in its policy.
+Original Hyp: at home is the spectre of war and death in the cellars of intelligence of all people , even those who thought that they accepted by the regime or are engaged in its policy .
+Hyp After Shift: at home is the spectre of war and death in the cellars of of intelligence all people , even those who thought that they accepted by the regime or are engaged in its policy .
+Alignment: (  I S S    S S SSS      DSS   IS  IS)
+NumShifts: 1
+  [13, 13, 13/14] ([intelligence])
+Score: 0.512 (16.0/31.25)
+
+Sentence ID: ANN20040227.001-3:1
+Original Ref: the first is based on individualism, order, obedience, putting the regime and discipline ahead of anything else - even if it was wrong - following the golden rule that says: "implement first, then object," even if it was by decapitation!
+Original Hyp: the former based on exclusivity , by level , it is obedience and discipline on any other even if that is wrong pursuant to rule the golden she said , " carried out first , to object to , if cut warheads .
+Hyp After Shift: the first former based on exclusivity , level , it and discipline is obedience on any other even if that is wrong pursuant to the golden rule she said , " carried out , to object to , if cut warheads by .
+Alignment: (  S  DSSSSS  SSSSS  SS SS   IIIISSSSSSS SS S)
+NumShifts: 4
+  [12, 13, 10/9] ([and, discipline])
+  [33, 33, 1/0] ([first])
+  [7, 7, 38/41] ([by])
+  [24, 24, 26/26] ([rule])
+Score: 0.7472527472527473 (34.0/45.5)
+
+Sentence ID: ANN20040227.002-2:1
+Original Ref: the optimists are talking about june 2005 as an inescapable due date, unless lebanon succeeds on the occasion of the presidential elections in renewing international confidence in her, which does not exist now after the paris commitments were lost in the presidents wars.
+Original Hyp: wishers to talk about the june 2005 as a benefit not flight , unless lebanon has succeeded on the occasion of the presidential elections , renewal of the international confidence in it , and today is non existent after the paris commitments were lost in wars of the heads of states .
+Hyp After Shift: the wishers to talk about june 2005 as a benefit flight , unless lebanon has succeeded on the occasion of the presidential elections , renewal of the international confidence in it , and today not is non existent after the paris commitments were lost in wars of the heads of states .
+Alignment: ( SSS    SSSS  IS       IISS   ISSS ISS       II IISS)
+NumShifts: 2
+  [4, 4, -1/-1] ([the])
+  [10, 10, 29/34] ([not])
+Score: 0.6363636363636364 (28.0/44.0)
+
+Sentence ID: ANN20040227.002-4:1
+Original Ref: no matter how great the friendship between french president jacques chirac and lebanon, and whatever his distinctive relationship with prime minister rafic al-hariri (assuming that the latter remains in his position), there will be no paris without a european congruity.
+Original Hyp: no matter how friendly the french president jacques chirac to lebanon , whatever the specific relations with the assumption that ( prime minister rafiq al hariri to remain in place last ) is paris without european accord .
+Hyp After Shift: no matter how friendly the french president jacques chirac to lebanon , whatever the specific relations with prime minister assumption ( rafiq that the al hariri in to remain place last ) is paris without accord european .
+Alignment: (   S DD    SSS SSS   SSS  SS SSSSSS  S S)
+NumShifts: 5
+  [21, 22, 18/16] ([prime, minister])
+  [19, 19, 25/23] ([the])
+  [20, 20, 24/22] ([that])
+  [28, 28, 27/25] ([in])
+  [35, 35, 38/36] ([european])
+Score: 0.7152317880794702 (27.0/37.75)
+
+Sentence ID: ANN20040228.001-7:1
+Original Ref: to uncover the reason, one must search in the iraqi dimension, where perle is wrapped up in two issues: first, profitable deals relating to the reconstruction of iraq and, prior to this, the war, in which investigations have begun and include the hollinger and boeing companies.
+Original Hyp: to see reason to be in the dimension of the iraqi issues : first , where the damage pearl's lucrative deals on the reconstruction of iraq before the war has begun investigations which include companies .
+Hyp After Shift: to see the reason be dimension of in the iraqi where issues : first , damage pearl's lucrative deals on to the reconstruction of iraq before the war has which investigations begun include the companies .
+Alignment: ( S SSSS   D DDSSSSSSS S     DDDS SS  D D  DDSS)
+NumShifts: 7
+  [3, 3, 23/21] ([to])
+  [4, 5, 8/8] ([in, the])
+  [6, 6, 1/1] ([the])
+  [14, 14, 11/9] ([where])
+  [15, 15, 41/33] ([the])
+  [29, 29, 38/30] ([begun])
+  [31, 31, 35/28] ([which])
+Score: 0.7329842931937173 (35.0/47.75)
+
+Sentence ID: ANN20040229.001-2:1
+Original Ref: not only is there the most right-wing and extremist government in the history of israel, there is also extremist israeli public opinion that ensures the survival and continuity of this government and each feeds the other.
+Original Hyp: there is no more than right wing governments in the history of israel , but also israeli public opinion , a hard liner also believes the background of the survival and continuation of this government to nurture each other .
+Hyp After Shift: there is no the more than right wing governments in the history of israel , but also israeli public opinion , a hard liner also believes background of the survival and continuation of this government to each nurture other .
+Alignment: (DS S SSSSS    SSS D   IIIIIISS   S   S SSS)
+NumShifts: 2
+  [25, 25, 4/2] ([the])
+  [37, 37, 31/35] ([each])
+Score: 0.675 (27.0/40.0)
+
+Sentence ID: ANN20040304.004-5:1
+Original Ref: yet, the way some have conducted themselves despite their accepting involvement, the level of which was later lowered, hinted to damascus that nothing has changed in their strategic position toward syria and her regime in lebanon.
+Original Hyp: only way that inspired some to damascus , despite their acceptance of the participation and the devaluation of the level , nothing has changed its position of strategic and syria in lebanon .
+Hyp After Shift: only the way some that inspired , despite their acceptance the level of participation and the devaluation of to damascus , nothing has changed in its strategic position of syria and lebanon .
+Alignment: (S   SSS  DS   SSSSS  S    S  S  DDSS)
+NumShifts: 8
+  [5, 6, 20/19] ([to, damascus])
+  [16, 17, 10/9] ([the, level])
+  [4, 4, 2/1] ([some])
+  [12, 12, 1/0] ([the])
+  [10, 10, 13/12] ([of])
+  [27, 27, 27/24] ([strategic])
+  [29, 29, 30/27] ([syria])
+  [30, 30, 25/23] ([in])
+Score: 0.6887417218543046 (26.0/37.75)
+
+Sentence ID: ANN20040304.005-1:1
+Original Ref: the disastrous official arab system is like a cart spiraling downwards with more and more speed as time passes, without brakes to stop it or even slow it down.
+Original Hyp: the official arab system like the critical towards the wagon down to the abyss more quickly over time , as does not have a designated stop the rush , not even the mitigation .
+Hyp After Shift: the official arab system the critical towards like a the wagon down the abyss more quickly over , as time does not have to designated stop the rush , not even the mitigation .
+Alignment: ( D   IIS  ISSSS SSS  SSS I IISS SSS)
+NumShifts: 4
+  [4, 4, 5/7] ([like])
+  [11, 11, 20/23] ([to])
+  [16, 16, 16/18] ([time])
+  [22, 22, 6/7] ([a])
+Score: 0.7552447552447552 (27.0/35.75)
+
+Sentence ID: ANN20040305.001-3:1
+Original Ref: nevertheless, the former president still adheres to his opposition for extending for president emile lahoud and does not hesitate to correct an old phalangist rule, in which he thinks that a deliberate distortion afflicted it lately, that the support of the phalanges party for the president of the republic, any president of the republic, has not once led to the support for renewing his term or extending it.
+Original Hyp: however , maintained the former president of the opposition to the extension of president emile lahoud , does not hesitate to correct a distortion of the phalanges old believes that the deliberate hit finally , is that the phalangist party support the president of the republic , president of the republic , has not been submitted to the support of the renewal of the mandate extension .
+Hyp After Shift: however , maintained the former president of the to opposition the extension of president emile lahoud , does not hesitate to correct distortion old phalangist believes that a the deliberate hit finally , is that the support of the phalanges party the president of the republic , president of the republic , has not been submitted to the support of the renewal of the mandate extension .
+Alignment: (IIS   SS D SSS   S     S  DDDDS  I SSSS       D    SS   IS  SS   ISSSSSSS)
+NumShifts: 5
+  [24, 26, 41/38] ([of, the, phalanges])
+  [8, 8, 8/9] ([opposition])
+  [22, 22, 29/26] ([a])
+  [35, 35, 23/23] ([phalangist])
+  [40, 40, 38/35] ([support])
+Score: 0.5985401459854015 (41.0/68.5)
+
+Sentence ID: ANN20040309.001-6:1
+Original Ref: this inseparability means inseparability in path and destiny to the point that the president of lebanon is made in syria and not in lebanon and governments in lebanon are formed with syrian intervention to overcome the obstacles to their formation.
+Original Hyp: it is tying on a correlation in the course of destiny , even the president of the lebanese republic is syria making it is not making lebanon , and the formation of governments in lebanon would be intervention to overcome the obstacles to a syrian .
+Hyp After Shift: it is tying on a correlation in course of destiny , the even the lebanese the president of republic is making it syria is not making lebanon , and the formation of governments in lebanon would be syrian intervention to overcome the obstacles to a .
+Alignment: (IISSSS SS S ISS   S SS S S I III   DSS       SS)
+NumShifts: 4
+  [13, 15, 11/15] ([the, president, of])
+  [44, 44, 31/36] ([syrian])
+  [7, 7, 8/11] ([the])
+  [20, 20, 19/22] ([syria])
+Score: 0.6030150753768844 (30.0/49.75)
+
+Sentence ID: EJO20031223.001-3:1
+Original Ref: no one is unaware of the fact that we are in the same vessel, uniting and diverging, concurring and separating, in this our eternal final and sole country and our eternal final and sole throne, jordan, until god inherits this earth and all on it.
+Original Hyp: no one is unaware of the fact that we agree and disagree on the same boat . . that our sole and eternal the final final the only eternal and jordan to inherit the earth and god .
+Hyp After Shift: no one is unaware of the fact that we the same agree and disagree boat and . . that our eternal final sole and the eternal final the only jordan to god inherit the earth and on .
+Alignment: (         DD  DS SS SSS   D D S  DSSSS SS  D S)
+NumShifts: 7
+  [13, 14, 11/8] ([the, same])
+  [22, 22, 23/19] ([eternal])
+  [14, 14, 43/36] ([on])
+  [23, 23, 24/19] ([final])
+  [27, 27, 30/23] ([eternal])
+  [28, 28, 18/14] ([and])
+  [35, 35, 37/30] ([god])
+Score: 0.5572139303482587 (28.0/50.25)
+
+Sentence ID: MOFA20040219.001-1:1
+Original Ref: the crystallization of a strong and practical partnership between us is justified by the facts of history and geography and the requirements of reason.
+Original Hyp: that the development of our partnership strong and justified by the facts of history and geography with the requirements of logic .
+Hyp After Shift: that the development of strong and our partnership justified by the facts of history and geography with the requirements of logic .
+Alignment: (I S D  S DDD        S   IS)
+NumShifts: 1
+  [6, 7, 4/3] ([strong, and])
+Score: 0.4583333333333333 (11.0/24.0)
+
+Sentence ID: MOFA20040219.002-1:1
+Original Ref: human development and economic prosperity are key to a better future for the middle east.
+Original Hyp: human development and economic prosperity are key to a better future for the middle east .
+Hyp After Shift: human development and economic prosperity are key to a better future for the middle east .
+Alignment: (              IS)
+NumShifts: 0
+Score: 0.12698412698412698 (2.0/15.75)
+
+Sentence ID: OMSAR20040107.001-4:1
+Original Ref: this is where the importance of cooperation between local authorities across borders arises because science, knowledge and development know no geographic borders and belong to the entire human race.
+Original Hyp: this is the importance of cooperation between local administrations across the border because the development of science and knowledge and know no boundaries and geographical it belongs to all mankind .
+Hyp After Shift: this is the importance of cooperation between local administrations across the border because of science knowledge and development know no boundaries and geographical and it belongs to the all mankind .
+Alignment: (  D      S SS IS     ISS IS  SSS)
+NumShifts: 3
+  [13, 13, 25/27] ([the])
+  [13, 13, 17/18] ([development])
+  [15, 15, 21/23] ([and])
+Score: 0.5811965811965812 (17.0/29.25)
+
+Sentence ID: OMSAR20040107.002-2:1
+Original Ref: the agreement's protocol includes the creation of an independent account in the value of 10.2 million euros, allocated to fund projects submitted by the municipalities to treat solid waste, under the management of the minister of administrative development and the monitoring of the european union commission.
+Original Hyp: includes the protocol of agreement to bring about a separate account the value of 10.2 million euros to finance the projects prepared by the treatment by municipal solid waste management , minister of administrative development and control of the european union commission .
+Hyp After Shift: agreement to protocol includes the bring about a separate account the value of 10.2 million euros to finance projects prepared by the treatment by municipal solid waste the management of , minister of administrative development and control of the european union commission .
+Alignment: (SS   SSSS D     DS S S  SSS DS   S     DS    IS)
+NumShifts: 4
+  [3, 3, 32/29] ([of])
+  [18, 18, 30/27] ([the])
+  [0, 1, 4/4] ([includes, the])
+  [0, 0, 2/2] ([protocol])
+Score: 0.5555555555555556 (25.0/45.0)
+
+Sentence ID: SPC20030310.001-5:1
+Original Ref: the industrial revolution for example was not confined to a day or days or weeks.
+Original Hyp: for example , industrial revolution not only to day or days or a few years .
+Hyp After Shift: industrial revolution for example , not only to a day or days or few years .
+Alignment: (D    S S      IIS)
+NumShifts: 2
+  [3, 4, 0/-1] ([industrial, revolution])
+  [12, 12, 9/7] ([a])
+Score: 0.5 (8.0/16.0)
+
+Sentence ID: UN20040101.002-3:1
+Original Ref: since many years, the council has been showing special interest in the issue of refugee and internally displaced children, who were forced to flee their homes, as well as children who were recruited and sexually abused, with special attention given to girls because they are more at risk of confronting additional dangers, especially sexual violence.
+Original Hyp: the council to pay for several years , special attention to the theme of the children of refugees and internally displaced persons who were forced to flee their homes , as well as children who have been recruited and sexual exploitation , giving particular importance to the girls because of their more vulnerable to additional risks , particularly sexual violence .
+Hyp After Shift: to pay for the council several been years , to the theme the children of refugees and internally displaced persons who were forced to flee their homes , as well as children who have recruited and sexual exploitation , special attention giving particular importance to the girls because of their more vulnerable to of risks additional , particularly sexual violence .
+Alignment: (SSS  S ISSSS S S   S      IS     S  SSS  IIS I  SS SS S SS IS)
+NumShifts: 5
+  [0, 1, 4/4] ([the, council])
+  [13, 13, 47/53] ([of])
+  [8, 9, 36/40] ([special, attention])
+  [33, 33, 5/5] ([been])
+  [54, 54, 50/55] ([additional])
+Score: 0.6486486486486487 (36.0/55.5)
+
+Sentence ID: UN20040101.005-6:1
+Original Ref: my delegation is satisfied at the implementation of a major part of the recommendations of the mission that visited central africa in the period from june 7-16, 2003.
+Original Hyp: my delegation is satisfied with the completion of a large part of the recommendations of the mission visited central africa from 7 to 16 june 2003 .
+Hyp After Shift: my delegation is satisfied with the completion of a large part of the recommendations of the mission visited central africa 7 to 16 from june 2003 .
+Alignment: (    S S  S       D   SSS  SS)
+NumShifts: 1
+  [20, 20, 24/23] ([from])
+Score: 0.3508771929824561 (10.0/28.5)
+
+Sentence ID: UN20040101.007-2:1
+Original Ref: one cannot minimize the pivotal role of national reconciliation in societies which have suffered the acrimony of armed conflict and its effects on the social fabric and economic foundations of affected countries and regions, as well as its capacity to turn the page on the past and look to a future of peaceful cohabitation and a sense of a unity of purpose and interests.
+Original Hyp: could not be underestimated from the central element of national reconciliation in the rehabilitation of societies that have suffered the bitterness of the armed conflict and its implications on the social fabric of economic infrastructure of states and regions concerned , and to enable them to the page of the past and look into the future of peaceful coexistence and cooperation and unity of purpose and interests .
+Hyp After Shift: could not be underestimated from the central element of national reconciliation in the rehabilitation societies that have suffered the bitterness of the armed conflict and its implications on the social fabric and of economic infrastructure of states and regions concerned , to enable them to the page of the past and look into the future of peaceful coexistence and cooperation of and unity of purpose and interests .
+Alignment: (IISSS SS    II S   S I    S     I S DS SSSSSS D  S    SS   S DS S    IS)
+NumShifts: 2
+  [14, 14, 57/60] ([of])
+  [40, 40, 25/30] ([and])
+Score: 0.5243445692883895 (35.0/66.75)
+
+Sentence ID: XIN20040103.0035-4:1
+Original Ref: as the governor said, establishing and improving a financial market regulated by clear and objective rules and regulations will help improve the investment efficiency and spur an increase in the savings rates of citizens.
+Original Hyp: as the governor said , by improving the financial market rules and regulations , organized by the clear and objective will help improve the efficiency of investment to stimulate higher rates of savings of citizens .
+Hyp After Shift: as the governor said , by improving the financial market , organized by clear and objective rules and regulations will help improve the investment efficiency of to stimulate higher savings the of citizens rates of .
+Alignment: (   SSS S  IS             SSSSS IS  S)
+NumShifts: 4
+  [10, 12, 17/19] ([rules, and, regulations])
+  [26, 26, 21/23] ([investment])
+  [30, 31, 32/34] ([rates, of])
+  [13, 13, 28/30] ([the])
+Score: 0.5070422535211268 (18.0/35.5)
+
+Sentence ID: XIN20040105.0070-7:1
+Original Ref: he is also expected to meet with syrian nationals living in istanbul and turkish businessmen.
+Original Hyp: it is also expected to meet with syrian citizens living in istanbul , turkish businessmen .
+Hyp After Shift: it is also expected to meet with syrian citizens living in istanbul , turkish businessmen .
+Alignment: (S       S   S IS)
+NumShifts: 0
+Score: 0.29850746268656714 (5.0/16.75)
+
+Sentence ID: XIN20040107.0046-7:1
+Original Ref: he explained, "the peace process depends on the ceasefire.
+Original Hyp: the peace process depends on the cease fire .
+Hyp After Shift: the peace process depends on the cease fire .
+Alignment: (DDS     IIS)
+NumShifts: 0
+Score: 0.631578947368421 (6.0/9.5)
+
+Sentence ID: XIN20040108.0031-5:1
+Original Ref: he explained that the israeli government did not make any move to advance the peace process between the two sides, as it continues to close palestinian offices and institutions in jerusalem, continues to hold prisoners and detainees, and has not withdrawn to where it was before september 28, 2000, considering that is part of the commitment by the israeli government in the first phase of the "road map" plan which provides for the establishment of the palestinian state by the year 2005.
+Original Hyp: the israeli government did not have any step for the advancement of the peace process between the two sides as they continue the closure of offices and palestinian institutions in jerusalem continued detention of prisoners and detainees have not withdrawn to what it was before 28 september 2000 as part of the obligations on the israeli government in the first phase of the plan " road map " which provides the establishment of a palestinian state by 2005 .
+Hyp After Shift: the israeli government did not have any step for the advancement of the peace process between the two sides as they continue the closure palestinian of offices and institutions in jerusalem continued detention of prisoners and detainees have not withdrawn to what it was before september 28 2000 as part of the obligations on the israeli government in the first phase of the " road map plan " which provides the establishment of a palestinian state by 2005 .
+Alignment: (DDD     S IISSS      S SSSS I    SSSS  DSS   S    DDSSS   SS         ISS I  D   S   DSS)
+NumShifts: 3
+  [27, 27, 24/23] ([palestinian])
+  [46, 46, 46/44] ([september])
+  [63, 63, 67/66] ([plan])
+Score: 0.5014925373134328 (42.0/83.75)
+
+Sentence ID: XIN20040110.0019-2:1
+Original Ref: lhasa january 10 / xinhua / the private economy of the tibet autonomous region in southwest china witnessed a rapid growth in recent years thanks to the support of the central government, according to what chao cheng shio, director of the industry and trade administration in the tibet region, said.
+Original Hyp: lhasa january 10 ( xinhua ) private economy witnessed tibet autonomous region in southwest china has developed rapidly in recent years with the support of the central government , according to chow chung chieu director of the department of industry and trade area of tibet .
+Hyp After Shift: lhasa january 10 ( xinhua ) private economy of tibet autonomous region in southwest china witnessed has developed rapidly in recent years with the support of the central government , according to chow chung chieu director of the department industry and trade area of tibet .
+Alignment: (   S DS   D       SSS   DS     IS  DSSS   I   DSS DS)
+NumShifts: 2
+  [38, 38, 9/7] ([of])
+  [9, 9, 17/15] ([witnessed])
+Score: 0.4919786096256685 (23.0/46.75)
+
+Sentence ID: XIN20040113.0114-7:1
+Original Ref: in a related context, 200 armed palestinians from the fatah organization demonstrated today in protest against an assassination attempt on their leader in the northern west bank, zakkaria zubaidi, with the brigades vowing revenge.
+Original Hyp: , demonstrated today in the 200 armed palestinians from fatah , in protest against the assassination attempt against their commander in the northern west bank zakariya zabidi battalions vowed reprisals .
+Hyp After Shift: in , 200 armed palestinians from the fatah , demonstrated today in protest against assassination attempt against their commander in the northern west bank zakariya zabidi battalions the vowed reprisals .
+Alignment: ( DDS      S     D  S S    SSSS SSS)
+NumShifts: 4
+  [1, 2, 12/10] ([demonstrated, today])
+  [1, 1, -1/-1] ([in])
+  [2, 2, 8/6] ([the])
+  [14, 14, 30/27] ([the])
+Score: 0.5538461538461539 (18.0/32.5)
+
+Sentence ID: XIN20040115.0055-1:1
+Original Ref: samjhawta express train between india and pakistan arrives at atari in india
+Original Hyp: train rapid between india and pakistan up to in india
+Hyp After Shift: rapid train between india and pakistan up to in india
+Alignment: (DS     DSS  )
+NumShifts: 1
+  [0, 0, 2/1] ([train])
+Score: 0.5333333333333333 (6.0/11.25)
+
+Sentence ID: XIN20040115.0212-2:1
+Original Ref: tokyo 16 january / xinhua / the japanese government decided today, friday, to extend the participation of the japanese forces in the united nations peacekeeping mission on the golan heights occupied by israel, following the international security council issuance of a resolution to extend the mission.
+Original Hyp: tokyo january 16 ( xinhua ) the japanese government decided friday to extend the participation of the japanese forces in the task of the united nations peacekeeping in the golan heights occupied by israel , following the issuance of the security council a decision on the continuation of a task .
+Hyp After Shift: tokyo 16 january ( xinhua ) the japanese government decided friday to extend the participation of the japanese forces in task of the united nations peacekeeping in on the the golan heights occupied by israel , following the the security council issuance of a decision continuation of a the task .
+Alignment: (   S S    DS         II    S I     IS  S     ISSS IS)
+NumShifts: 4
+  [37, 38, 37/41] ([issuance, of])
+  [44, 45, 26/27] ([on, the])
+  [1, 1, 2/2] ([january])
+  [20, 20, 43/48] ([the])
+Score: 0.4666666666666667 (21.0/45.0)
+
+Sentence ID: XIN20040116.0152-2:1
+Original Ref: kuwait 16 january / xinhua / sheikh mohammad sabah al salem al sabah, kuwaiti foreign minister, received a telephone call this evening from his american counterpart colin powell that dealt with the american declaration considering kuwait a strategic ally to america outside the north alliance treaty organization.
+Original Hyp: received january 16 ( xinhua ) kuwait , sheikh mohammad sabah al salem al sabah , kuwait's foreign minister , a telephone conversation this evening his american counterpart , colin powell addressed the american declaration of kuwait as strategic ally outside nato . american
+Hyp After Shift: kuwait 16 january ( xinhua ) , sheikh mohammad sabah al salem al sabah , kuwait's foreign minister received , a telephone conversation this evening his american counterpart , colin powell addressed the american declaration of kuwait as strategic ally outside nato . american
+Alignment: (   S IS      ISS S I  S  D   I  DDS   S S  DD DDSSS)
+NumShifts: 3
+  [1, 1, 1/2] ([january])
+  [6, 6, -1/-1] ([kuwait])
+  [1, 1, 15/18] ([received])
+Score: 0.5942857142857143 (26.0/43.75)
+
+Sentence ID: XIN20040116.0152-5:1
+Original Ref: al-saqr explained in a press statement distributed here this evening that kuwait's special status with the united states would allow it to communicate the voice and hopes of the people of the region regarding the issues and problems they suffer from.
+Original Hyp: the falcon in a press statement distributed here this evening that this place distinctive kuwait with the united states will enable it to transfer the voice of the peoples of the region and hopes for the issues and problems .
+Hyp After Shift: the falcon in a press statement distributed here this evening that this place distinctive kuwait with the united states will enable it to transfer the voice and hopes of the peoples of the region for the issues and problems .
+Alignment: (SS         ISSS    SS  S      S   S    DDS)
+NumShifts: 1
+  [32, 33, 25/25] ([and, hopes])
+Score: 0.34285714285714286 (15.0/43.75)
+
+Sentence ID: XIN20040117.0050-2:1
+Original Ref: canberra january 17 / xinhua / australian foreign minister alexander downer said today saturday that negotiations with the united states to establish a bilateral free trade agreement were still facing problems.
+Original Hyp: canberra , january 17 ( xinhua ) australian foreign minister alexander downer said today that negotiations with the united states on a bilateral free trade agreement still faces problems .
+Hyp After Shift: canberra , january 17 ( xinhua ) australian foreign minister alexander downer said today that negotiations with the united states on a bilateral free trade agreement faces still problems .
+Alignment: ( I  S S       D      DS     S SS)
+NumShifts: 1
+  [26, 26, 28/27] ([still])
+Score: 0.3252032520325203 (10.0/30.75)
+
+Sentence ID: XIN20040117.0140-6:1
+Original Ref: the company will also advise the electricity sector on pricing and increase electricity prices during the peak season.
+Original Hyp: the company will also guide the electricity market will price of electricity prices in peak season .
+Hyp After Shift: the company will also guide the electricity market will price of electricity prices in season peak .
+Alignment: (    S  DSSSS  SS S)
+NumShifts: 1
+  [14, 14, 16/15] ([peak])
+Score: 0.46511627906976744 (10.0/21.5)
+
+Sentence ID: XIN20040118.0127-4:1
+Original Ref: the chinese ambassador explained that during the visit, a revision of the strategic cooperation agreement between china and egypt will take place on the occasion of the elapse of five years since it was signed, pointing out that several agreements will be signed between the two countries, among them agreements in the economic and information fields.
+Original Hyp: the chinese ambassador would be reviewed during the visit of the agreement of strategic cooperation between egypt and china on the occasion of the five years to sign it , he pointed out that would be signed several agreements between the two countries , including agreements in the areas of economic and information .
+Hyp After Shift: the chinese ambassador would be reviewed during the visit of of the strategic cooperation agreement between china and egypt on the occasion of the of five years to sign it , he pointed out that several agreements would be signed between the two countries , including agreements in the areas economic and information .
+Alignment: (   ISS  DSS         DDD     D   IS SSS    S     SSS   I   S)
+NumShifts: 6
+  [37, 38, 37/33] ([several, agreements])
+  [9, 10, 11/12] ([of, the])
+  [49, 49, 28/23] ([of])
+  [9, 9, 14/14] ([agreement])
+  [17, 17, 17/15] ([and])
+  [18, 18, 16/15] ([china])
+Score: 0.5320197044334976 (27.0/50.75)
+
+Sentence ID: XIN20040121.0073-1:1
+Original Ref: egyptian communications company launches new television station in iraq
+Original Hyp: egyptian communications company launched new television station in iraq
+Hyp After Shift: egyptian communications company launched new television station in iraq
+Alignment: (   S     )
+NumShifts: 0
+Score: 0.1111111111111111 (1.0/9.0)
+
+Sentence ID: XIN20040123.0090-5:1
+Original Ref: the crack in the dam occurred wednesday night on the eve of the traditional chinese lunar new year.
+Original Hyp: fault occurred in the wednesday night , on the eve of the traditional chinese lunar new year .
+Hyp After Shift: fault in the occurred wednesday night , on the eve of the traditional chinese lunar new year .
+Alignment: (DS  D   I         IS)
+NumShifts: 1
+  [1, 1, 5/3] ([occurred])
+Score: 0.3888888888888889 (7.0/18.0)
+
+Sentence ID: XIN20040127.0006-1:1
+Original Ref: chinese economic and financial figures in one week, first and last addition
+Original Hyp: chinese economic and financial figures in the first and last week as well as
+Hyp After Shift: chinese economic and financial figures in the first and last week as well as
+Alignment: (      DS   IIIS)
+NumShifts: 0
+Score: 0.47058823529411764 (6.0/12.75)
+
+Sentence ID: XIN20040128.0114-6:1
+Original Ref: statistics issued by the local government show that there are 139 chicken farms, 63 markets, 36 supermarkets and 31 chicken slaughterhouses in peking.
+Original Hyp: of the local government statistics show that there were 139 farm raising poultry , 36.63 . market , supermarket , 31 for the slaughter of chickens in beijing .
+Hyp After Shift: statistics of the local government show that there were 139 farm raising poultry , 36.63 . market , supermarket , 31 for the slaughter of chickens in beijing .
+Alignment: ( DS      S IIISSSSSSS IIISS IS)
+NumShifts: 1
+  [4, 4, -1/-1] ([statistics])
+Score: 0.9130434782608695 (21.0/23.0)
+
+Sentence ID: XIN20040128.0119-2:1
+Original Ref: sanaa january 28 / xinhua / yemeni sources stated that yemeni and american coast guard units ended joint military maneuvers in the gulf of aden today wednesday.
+Original Hyp: sanaa , january 28 ( xinhua ) the sources said yemeni forces units of the yemeni and american coast guard concluded today joint military exercises in the gulf of aden .
+Hyp After Shift: sanaa , january 28 ( xinhua ) the said yemeni sources forces of the yemeni and american coast guard units concluded joint military exercises in the gulf of aden today .
+Alignment: ( I  S IIS  ISS      S  S      S)
+NumShifts: 3
+  [8, 8, 6/10] ([sources])
+  [12, 12, 14/19] ([units])
+  [21, 21, 25/29] ([today])
+Score: 0.5045045045045045 (14.0/27.75)
+
+Sentence ID: XIN20040128.0152-3:1
+Original Ref: saviour kasoquer, president of the defense and interior committee in parliament, made this statement during the presentation of a report to parliament on the visit by a delegation of his committee to china.
+Original Hyp: made chairman of the committee on defence and interior , this statement during the parliament to report to parliament on the visit by a delegation of the committee to china .
+Hyp After Shift: made chairman of the and interior committee on defence , this statement during the parliament to report to parliament on the visit by a delegation of the committee to china .
+Alignment: (DSS  D   SSS    DSS          S  IS)
+NumShifts: 1
+  [7, 8, 5/3] ([and, interior])
+Score: 0.42424242424242425 (14.0/33.0)
+
+Sentence ID: XIN20040128.0152-4:1
+Original Ref: kasukuwere said, "china provides an opportunity for zimbabwe to establish cooperation with a friendly state prepared to provide assistance."
+Original Hyp: " said that china provide an opportunity for zimbabwe to establish cooperation with the state was prepared to offer friendly assistance . "
+Hyp After Shift: " said that china an opportunity for zimbabwe to establish cooperation with the friendly state was prepared to provide offer assistance . "
+Alignment: (SSSS        S  I   IIIS)
+NumShifts: 2
+  [19, 19, 12/13] ([friendly])
+  [4, 4, 16/18] ([provide])
+Score: 0.631578947368421 (12.0/19.0)
+
+Sentence ID: XIN20040129.0044-2:1
+Original Ref: kabul 29 january (xinhua) manuel de almeida e silva, spokesman for the united nations, said here today that 2500 afghan refugees from eight states, in particular iran, had returned to their country to date in 2004.
+Original Hyp: kabul january 29 ( xinhua ) manuel de almeida the selva of the united nations spokesman here today that 2500 afghan refugees from eight states in particular iran have returned to their country so far in 2004 .
+Hyp After Shift: kabul 29 january ( xinhua ) manuel de almeida the selva spokesman of the united nations here today that 2500 afghan refugees from eight states in particular iran have returned to their country so far in 2004 .
+Alignment: (   IIS   SS S  DS        S  SS    SS IS)
+NumShifts: 2
+  [1, 1, 1/2] ([january])
+  [15, 15, 9/10] ([spokesman])
+Score: 0.46258503401360546 (17.0/36.75)
+
+Sentence ID: XIN20040129.0044-5:1
+Original Ref: elsewhere, 50 refugees from seven other states returned with the help of the agency.
+Original Hyp: on the other hand , 50 refugees from seven other states with the assistance of the agency .
+Hyp After Shift: on the other hand , 50 refugees from seven other states with the assistance of the agency .
+Alignment: (IIIIS      D  S  IS)
+NumShifts: 0
+Score: 0.5901639344262295 (9.0/15.25)
+
+Sentence ID: XIN20040129.0054-3:1
+Original Ref: a number of palestinian prisoners said the prison authorities returned 37 prisoners yesterday who were to be released today and returned another 16 prisoners today without giving reasons for removing their names.
+Original Hyp: the number of palestinian prisoners , prison authorities yesterday returned 37 prisoners who were released today , and today their 16 prisoners , without mentioning names other reasons for the write off .
+Hyp After Shift: the number of palestinian prisoners , the prison authorities returned 37 prisoners yesterday who were released today , and today their 16 prisoners , without mentioning names other reasons for write off .
+Alignment: (S    S         DD  I SS  S IIS  SSS)
+NumShifts: 2
+  [8, 8, 12/11] ([yesterday])
+  [29, 29, 6/5] ([the])
+Score: 0.45714285714285713 (16.0/35.0)
+

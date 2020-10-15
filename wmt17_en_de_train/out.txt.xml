@@ -1,0 +1,285 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<system title="Byblos" hyp_fname="wmt17_en_de_train/train_new.pe" ref_fname="wmt17_en_de_train/train_new.mt" creation_date="10:36:29, 星期四, 10 15 2020" case_sense="0">
+<tstset setid="" srclang="" trglang="">
+  <doc docid="">
+    <seg segid="0">
+      <hyp id="1" refid="" wrd_cnt="19.0" num_errs="5.0">
+        "außerdem","sie",S,0
+        "geben","geben",C,0
+        "sie","außerdem",S,0
+        "an","an",C,0
+        ",",",",C,0
+        "welche","welche",C,0
+        "art","art",C,0
+        "von","von",C,0
+        "änderungen","änderungen",C,0
+        "zulässig","zulässig",C,0
+        "sind","sind",C,0
+        ",",",",C,0
+        "die","",D,0
+        "für","damit",S,0
+        "das","das",C,0
+        "dokument","dokument",C,0
+        "zertifiziert","zertifiziert",C,0
+        "bleiben","bleibt",S,0
+        ".",".",C,0
+      </hyp>
+    </seg>
+    <seg segid="1">
+      <hyp id="1" refid="" wrd_cnt="11.0" num_errs="1.0">
+        "führen","führen",C,0
+        "sie","sie",C,0
+        "einen","einen",C,0
+        "der","der",C,0
+        "folgenden","folgenden",C,0
+        "schritte","schritte",C,0
+        "in","in",C,0
+        "der","der",C,0
+        "optionsleiste","optionsleiste",C,0
+        "fest","aus",S,0
+        ":",":",C,0
+      </hyp>
+    </seg>
+    <seg segid="2">
+      <hyp id="1" refid="" wrd_cnt="26.0" num_errs="7.0">
+        "die","die",C,0
+        "letzte","letzte",C,0
+        "variable","variable",C,0
+        "",""",I,0
+        ",","state",S,0
+        "status",""",S,0
+        ",","ist",S,0
+        "einen","ein",S,0
+        "numerischen","numerischer",S,0
+        "wert","wert",C,0
+        ",",",",C,0
+        "der","der",C,0
+        "verwendet","verwendet",C,0
+        "wird","wird",C,0
+        ",",",",C,0
+        "um","um",C,0
+        "zu","zu",C,0
+        "bestimmen","bestimmen",C,0
+        ",",",",C,0
+        "welche","welche",C,0
+        "optionen","optionen",C,0
+        "von","von",C,0
+        "ihrem","ihrem",C,0
+        "telnet-client","telnet-client",C,0
+        "unterstützt","unterstützt",C,0
+        "wird","werden",S,0
+        ".",".",C,0
+      </hyp>
+    </seg>
+    <seg segid="3">
+      <hyp id="1" refid="" wrd_cnt="18.0" num_errs="9.0">
+        "","um",I,0
+        "weitere","mehr",S,0
+        "informationen","über",S,0
+        "zur","die",S,0
+        "verwendung","verwendung",C,0
+        "von","von",C,0
+        "tag-codes","tag-codes",C,0
+        "","zu",I,0
+        "","erfahren",I,0
+        ",",",",C,0
+        "exportieren","exportieren",C,0
+        "sie","sie",C,0
+        "text","text",C,0
+        "mit","mit",C,0
+        "tags","tags",C,0
+        "aus","aus",C,0
+        "einem","einem",C,0
+        "dokument","dokument",C,-1
+        "formatiert","",D,0
+        "werden","formatierten",S,0
+        ".",".",C,0
+      </hyp>
+    </seg>
+    <seg segid="4">
+      <hyp id="1" refid="" wrd_cnt="13.0" num_errs="1.0">
+        "steuert","steuert",C,0
+        "den","den",C,0
+        "tonwertbereich","tonwertbereich",C,0
+        "in","in",C,0
+        "den","den",C,0
+        "tiefen","schatten",S,0
+        "bzw.","bzw.",C,0
+        "lichtern","lichtern",C,0
+        ",",",",C,0
+        "die","die",C,0
+        "geändert","geändert",C,0
+        "werden","werden",C,0
+        ".",".",C,0
+      </hyp>
+    </seg>
+    <seg segid="5">
+      <hyp id="1" refid="" wrd_cnt="21.0" num_errs="5.0">
+        "wenn","wenn",C,0
+        "sie","sie",C,0
+        "einen","einen",C,0
+        "ordner","ordner",C,0
+        "auswählen","auswählen",C,0
+        ",",",",C,0
+        "wird","wird",C,0
+        "der","der",C,0
+        "befehl","befehl",C,0
+        ",","",D,0
+        "wo","",D,0
+        "möglich","nach",S,0
+        ",","möglichkeit",S,0
+        "um","auf",S,0
+        "alle","alle",C,0
+        "dateien","dateien",C,0
+        "in","in",C,0
+        "dem","dem",C,0
+        "ordner","ordner",C,0
+        "angewendet","angewendet",C,0
+        ".",".",C,0
+      </hyp>
+    </seg>
+    <seg segid="6">
+      <hyp id="1" refid="" wrd_cnt="17.0" num_errs="2.0">
+        "wählen","wählen",C,0
+        "sie","sie",C,0
+        """,""",C,0
+        "modifizieren","modifizieren",C,0
+        """,""",C,0
+        ">",">",C,0
+        """,""",C,0
+        "ebenenmaske","maske",S,0
+        """,""",C,0
+        ">",">",C,0
+        """,""",C,0
+        "einfügen","einfügen",C,0
+        "als","als",C,0
+        ""","",D,0
+        "maske","maske",C,0
+        ".",".",C,0
+        """,""",C,0
+      </hyp>
+    </seg>
+    <seg segid="7">
+      <hyp id="1" refid="" wrd_cnt="17.0" num_errs="8.0">
+        "beachten","beachten",C,0
+        "sie","sie",C,0
+        ",",",",C,0
+        "dass","dass",C,0
+        "","die",I,0
+        "dies","performance",S,0
+        "von","von",C,0
+        "illustrator","illustrator",C,0
+        "beim","beim",C,0
+        "arbeiten","arbeiten",C,0
+        "mit","mit",C,0
+        "großen","großen",C,0
+        ",",",",C,0
+        "komplexen","komplexen",C,0
+        "interaktiven","interaktiven",C,0
+        "malgruppen","malgruppen",C,0
+        "","durch",I,0
+        "","diese",I,0
+        "","option",I,0
+        "","beeinträchtigt",I,0
+        "","werden",I,0
+        "verlangsamen","kann",S,0
+        ".",".",C,0
+      </hyp>
+    </seg>
+    <seg segid="8">
+      <hyp id="1" refid="" wrd_cnt="18.0" num_errs="4.0">
+        "sie","sie",C,0
+        "können","können",C,0
+        "eine","eine",C,0
+        "illustrator","",D,0
+        "grafik","illustrator-grafik",S,0
+        "als","als",C,0
+        "layer-pdf-datei","layer-pdf-datei",C,0
+        "speichern","speichern",C,0
+        "und","und",C,0
+        "die","die",C,0
+        "sichtbarkeit","sichtbarkeit",C,0
+        "der","der",C,0
+        "ebenen","ebenen",C,0
+        "in","in",C,0
+        "indesign","indesign",C,0
+        "gesteuert","",D,0
+        "werden","steuern",S,0
+        ".",".",C,0
+      </hyp>
+    </seg>
+    <seg segid="9">
+      <hyp id="1" refid="" wrd_cnt="24.0" num_errs="5.0">
+        "um","um",C,0
+        "den","den",C,0
+        "inhalt","inhalt",C,0
+        "eines","eines",C,0
+        "grafikrahmens","grafikrahmens",C,0
+        "zu","zu",C,0
+        "ersetzen","ersetzen",C,0
+        ",","(",S,0
+        "z.","z.",C,0
+        "b.","b.",C,0
+        "","in",I,0
+        "eine","einer",S,0
+        "importierte","importierten",S,0
+        "grafik","grafik",C,0
+        "",")",I,0
+        ",",",",C,0
+        "verwenden","verwenden",C,0
+        "sie","sie",C,0
+        "das","das",C,0
+        "positionierungswerkzeug","positionierungswerkzeug",C,0
+        ",",",",C,0
+        "um","um",C,0
+        "das","das",C,0
+        "bild","bild",C,0
+        "auszuwählen","auszuwählen",C,0
+        ".",".",C,0
+      </hyp>
+    </seg>
+    <seg segid="10">
+      <hyp id="1" refid="" wrd_cnt="20.0" num_errs="2.0">
+        "die","die",C,0
+        "werte","werte",C,0
+        "für","für",C,0
+        """,""",C,0
+        "breite","breite",C,0
+        """,""",C,0
+        "und","und",C,0
+        """,""",C,0
+        "höhe","höhe",C,0
+        """,""",C,0
+        "sowie","sowie",C,0
+        "die","die",C,0
+        "",""",I,0
+        "auflösung","auflösung",C,0
+        "",""",I,0
+        "bestimmen","bestimmen",C,0
+        "das","das",C,0
+        "endgültige","endgültige",C,0
+        "pixelmaß","pixelmaß",C,0
+        "des","des",C,0
+        "dokuments","dokuments",C,0
+        ".",".",C,0
+      </hyp>
+    </seg>
+    <seg segid="11">
+      <hyp id="1" refid="" wrd_cnt="14.0" num_errs="3.0">
+        "geben","geben",C,0
+        "sie","sie",C,0
+        "für","für",C,0
+        "",""",I,0
+        "","wert",I,0
+        "",""",I,0
+        "den","den",C,0
+        "text","text",C,0
+        "ein","ein",C,0
+        ",",",",C,0
+        "der","der",C,0
+        "anstelle","anstelle",C,0
+        "des","des",C,0
+        "bildes","bildes",C,0
+        "angezeigt","angezeigt",C,0
+        "wird","wird",C,0
+    

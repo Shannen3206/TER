@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="tercom.7.25">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/tercom.7.25.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
